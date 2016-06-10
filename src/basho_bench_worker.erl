@@ -218,7 +218,7 @@ worker_idle_loop(State) ->
         run ->
             case basho_bench_config:get(mode) of
                 max ->
-                    ?INFO("Starting max worker: ~p\n", [self()]),
+                    %?INFO("Starting max worker: ~p\n", [self()]),
                     max_worker_run_loop(State);
                 {rate, max} ->
                     ?INFO("Starting max worker: ~p\n", [self()]),

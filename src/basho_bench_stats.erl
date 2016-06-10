@@ -271,7 +271,7 @@ process_stats(Now, State) ->
         true ->
             ErrCounts = ets:tab2list(basho_bench_errors),
             true = ets:delete_all_objects(basho_bench_errors),
-            ?INFO("Errors:~p\n", [lists:sort(ErrCounts)]),
+            %?INFO("Errors:~p\n", [lists:sort(ErrCounts)]),
             [ets_increment(basho_bench_total_errors, Err, Count) || 
                               {Err, Count} <- ErrCounts],
             ok;

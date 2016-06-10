@@ -82,7 +82,7 @@ init_source(Id) ->
     init_source(Id, basho_bench_config:get(?VAL_GEN_BLOB_CFG, undefined)).
 
 init_source(Id, undefined) ->
-    if Id == 1 -> ?DEBUG("random source\n", []);
+    if Id == 1 -> ok; %%?DEBUG("random source\n", []);
        true    -> ok
     end,
     SourceSz = basho_bench_config:get(?VAL_GEN_SRC_SIZE, 1048576),

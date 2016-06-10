@@ -64,7 +64,8 @@ new(Id) ->
     %% Choose the node using our ID as a modulus
     TargetNode = lists:nth((Id rem length(IPs)+1), IPs),
     %%TargetPort = lists:nth((Id rem length(PbPorts)+1), PbPorts),
-    TargetPort = PbPorts,
+    lager:warning("Pb port is ~w", [PbPorts]),
+    TargetPort = lists:nth((Id rem length(PbPorts)+1), PbPorts), 
     ?INFO("Using target node ~p for worker ~p\n", [TargetNode, Id]),
 
     {ok, Pid} = antidotec_pb_socket:start_link(TargetNode, TargetPort),

@@ -58,7 +58,7 @@ new(Id) ->
     random:seed(now()),
 
     IPs = basho_bench_config:get(antidote_pb_ips),
-    PbPort = basho_bench_config:get(antidote_pb_port),
+    PbPorts = basho_bench_config:get(antidote_pb_ports),
     Types  = basho_bench_config:get(antidote_types),
     SetSize = basho_bench_config:get(set_size),
     NumUpdates  = basho_bench_config:get(num_updates),
@@ -67,20 +67,28 @@ new(Id) ->
     MeasureStaleness = basho_bench_config:get(staleness),
 
     %% Choose the node using our ID as a modulus
-    TargetNode = lists:nth((Id rem length(IPs)+1), IPs),
-    ?INFO("Using target node ~p for worker ~p\n", [TargetNode, Id]),
 
-    {ok, Pid} = antidotec_pb_socket:start_link(TargetNode, PbPort),
+    {IP, Port, Pid} = try_until(IPs, PbPorts, Id),
+    ?INFO("!!!!!!!!!!!!!!!!!!!!!!START!!!!!!!!!!!!!!!!!!!!! Using target node ~p, ~p for worker ~p\n", [IP, Port, Id]),
+
     TypeDict = dict:from_list(Types),
     {ok, #state{time={1,1,1}, worker_id=Id,
 		pb_pid = Pid,
 		last_read={undefined,undefined},
 		set_size = SetSize,
 		num_partitions = NumPartitions,
-		type_dict = TypeDict, pb_port=PbPort,
-		target_node=TargetNode, commit_time=ignore,
+		type_dict = TypeDict, pb_port=Port,
+		target_node=IP, commit_time=ignore,
         num_reads=NumReads, num_updates=NumUpdates,
         measure_staleness=MeasureStaleness}}.
+
+try_until(IPs, Ports, Counter) ->
+    IP = lists:nth(Counter rem length(IPs) + 1, IPs),
+    Port = lists:nth(Counter rem length(Ports) + 1, Ports),
+    case antidotec_pb_socket:start_link(IP, Port) of
+        {ok, Pid} -> {IP, Port, Pid};
+        _ -> try_until(IPs, Ports, Counter+1) 
+    end.
 
 %% @doc Read a key
 run(read, KeyGen, _ValueGen, State=#state{pb_pid = Pid, worker_id = Id,
@@ -105,8 +113,8 @@ run(read, KeyGen, _ValueGen, State=#state{pb_pid = Pid, worker_id = Id,
 			    lager:info("Error read1 on client ~p",[Id]),
 			    {error, timeout, State}
 		    end;
-		Error ->
-		    lager:info("Error read2 on client ~p : ~p",[Id, Error]),
+		_Error ->
+		    %lager:info("Error read2 on client ~p : ~p",[Id, Error]),
 		    {error, timeout, State}
 	    end;
 	_ ->
