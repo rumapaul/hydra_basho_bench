@@ -1,0 +1,17 @@
+Stopping nodes: 10.20.0.11 10.20.0.12 10.20.0.15
+pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+pkill beam done
+Fail! (3)
+rm -rf antidote/rel/antidote/data/* for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+rm -rf antidote/rel/antidote/data/* done
+rm -rf antidote/rel/antidote/data/* finished.
+rm -rf antidote/rel/antidote/log/* for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+rm -rf antidote/rel/antidote/log/* done
+rm -rf antidote/rel/antidote/log/* finished.
+Starting nodes: 10.20.0.11 10.20.0.12 10.20.0.15
+antidote/rel/antidote/bin/antidote start for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+antidote/rel/antidote/bin/antidote start done
+bash: antidote/rel/antidote/bin/antidote: No such file or directory
+bash: antidote/rel/antidote/bin/antidote: No such file or directory
+bash: antidote/rel/antidote/bin/antidote: No such file or directory
+Fail! (3)

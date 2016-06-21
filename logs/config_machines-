@@ -1,0 +1,2215 @@
+cd ./antidote/ && pkill beam for nodes:
+cd ./antidote/ && pkill beam done
+cd ./antidote/ && pkill beam finished.
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull finished.
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config finished.
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config for nodes:
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config done
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config finished.
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config finished.
+cd ./antidote/ && rm -r deps && mkdir deps  for nodes:
+cd ./antidote/ && rm -r deps && mkdir deps done
+cd ./antidote/ && rm -r deps && mkdir deps  finished.
+cd ./antidote/ && make clean && make relnocert for nodes:
+cd ./antidote/ && make clean && make relnocert done
+cd ./antidote/ && make clean && make relnocert finished.
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+Fail! (3)
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config done
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+Fail! (3)
+cd ./antidote/ && rm -r deps && mkdir deps  for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && rm -r deps && mkdir deps done
+Fail! (3)
+cd ./antidote/ && make clean && make relnocert for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && make clean && make relnocert done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+Fail! (3)
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config done
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+Fail! (3)
+cd ./antidote/ && rm -r deps && mkdir deps  for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && rm -r deps && mkdir deps done
+Fail! (3)
+cd ./antidote/ && make clean && make relnocert for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && make clean && make relnocert done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+Fail! (3)
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/172.31.30.71/localhost/g' ./antidote/rel/vars.config done
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+Fail! (3)
+cd ./antidote/ && rm -r deps && mkdir deps  for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && rm -r deps && mkdir deps done
+Fail! (3)
+cd ./antidote/ && make clean && make relnocert for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && make clean && make relnocert done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && pkill beam done
+Fail! (3)
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+No local changes to save
+No local changes to save
+No local changes to save
+remote: Counting objects: 21, done.[K
+remote: Compressing objects:   4% (1/21)   [Kremote: Compressing objects:   9% (2/21)   [Kremote: Compressing objects:  14% (3/21)   [Kremote: Compressing objects:  19% (4/21)   [Kremote: Compressing objects:  23% (5/21)   [Kremote: Compressing objects:  28% (6/21)   [Kremote: Compressing objects:  33% (7/21)   [Kremote: Compressing objects:  38% (8/21)   [Kremote: Compressing objects:  42% (9/21)   [Kremote: Compressing objects:  47% (10/21)   [Kremote: Compressing objects:  52% (11/21)   [Kremote: Compressing objects:  57% (12/21)   [Kremote: Compressing objects:  61% (13/21)   [Kremote: Compressing objects:  66% (14/21)   [Kremote: Compressing objects:  71% (15/21)   [Kremote: Compressing objects:  76% (16/21)   [Kremote: Compressing objects:  80% (17/21)   [Kremote: Compressing objects:  85% (18/21)   [Kremote: Compressing objects:  90% (19/21)   [Kremote: Compressing objects:  95% (20/21)   [Kremote: Compressing objects: 100% (21/21)   [Kremote: Compressing objects: 100% (21/21), done.[K
+Unpacking objects:   4% (1/21)   Unpacking objects:   9% (2/21)   Unpacking objects:  14% (3/21)   Unpacking objects:  19% (4/21)   Unpacking objects:  23% (5/21)   Unpacking objects:  28% (6/21)   Unpacking objects:  33% (7/21)   Unpacking objects:  38% (8/21)   Unpacking objects:  42% (9/21)   Unpacking objects:  47% (10/21)   Unpacking objects:  52% (11/21)   Unpacking objects:  57% (12/21)   Unpacking objects:  61% (13/21)   Unpacking objects:  66% (14/21)   Unpacking objects:  71% (15/21)   Unpacking objects:  76% (16/21)   Unpacking objects:  80% (17/21)   Unpacking objects:  85% (18/21)   Unpacking objects:  90% (19/21)   remote: Total 21 (delta 6), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  95% (20/21)   Unpacking objects: 100% (21/21)   Unpacking objects: 100% (21/21), done.
+From https://github.com/SyncFree/antidote
+   d27379b..3c1f667  CONS-g5k-clocksi -> origin/CONS-g5k-clocksi
+   9637039..0643917  client-log-req-tmp -> origin/client-log-req-tmp
+ * [new branch]      master-g5k -> origin/master-g5k
+remote: Counting objects: 21, done.[K
+remote: Compressing objects:   4% (1/21)   [Kremote: Compressing objects:   9% (2/21)   [Kremote: Compressing objects:  14% (3/21)   [Kremote: Compressing objects:  19% (4/21)   [Kremote: Compressing objects:  23% (5/21)   [Kremote: Compressing objects:  28% (6/21)   [Kremote: Compressing objects:  33% (7/21)   [Kremote: Compressing objects:  38% (8/21)   [Kremote: Compressing objects:  42% (9/21)   [Kremote: Compressing objects:  47% (10/21)   [Kremote: Compressing objects:  52% (11/21)   [Kremote: Compressing objects:  57% (12/21)   [Kremote: Compressing objects:  61% (13/21)   [Kremote: Compressing objects:  66% (14/21)   [Kremote: Compressing objects:  71% (15/21)   [Kremote: Compressing objects:  76% (16/21)   [Kremote: Compressing objects:  80% (17/21)   [Kremote: Compressing objects:  85% (18/21)   [Kremote: Compressing objects:  90% (19/21)   [Kremote: Compressing objects:  95% (20/21)   [Kremote: Compressing objects: 100% (21/21)   [Kremote: Compressing objects: 100% (21/21), done.[K
+remote: Counting objects: 21, done.[K
+remote: Compressing objects:   4% (1/21)   [Kremote: Compressing objects:   9% (2/21)   [KUnpacking objects:   4% (1/21)   Unpacking objects:   9% (2/21)   Unpacking objects:  14% (3/21)   Unpacking objects:  19% (4/21)   Unpacking objects:  23% (5/21)   Unpacking objects:  28% (6/21)   Unpacking objects:  33% (7/21)   Unpacking objects:  38% (8/21)   Unpacking objects:  42% (9/21)   remote: Compressing objects:  14% (3/21)   [Kremote: Compressing objects:  19% (4/21)   [Kremote: Compressing objects:  23% (5/21)   [Kremote: Compressing objects:  28% (6/21)   [Kremote: Compressing objects:  33% (7/21)   [Kremote: Compressing objects:  38% (8/21)   [Kremote: Compressing objects:  42% (9/21)   [Kremote: Compressing objects:  47% (10/21)   [Kremote: Compressing objects:  52% (11/21)   [Kremote: Compressing objects:  57% (12/21)   [Kremote: Compressing objects:  61% (13/21)   [Kremote: Compressing objects:  66% (14/21)   [Kremote: Compressing objects:  71% (15/21)   [Kremote: Compressing objects:  76% (16/21)   [Kremote: Compressing objects:  80% (17/21)   [Kremote: Compressing objects:  85% (18/21)   [Kremote: Compressing objects:  90% (19/21)   [Kremote: Compressing objects:  95% (20/21)   [Kremote: Compressing objects: 100% (21/21)   [Kremote: Compressing objects: 100% (21/21), done.[K
+Unpacking objects:  47% (10/21)   Unpacking objects:  52% (11/21)   Unpacking objects:  57% (12/21)   Unpacking objects:  61% (13/21)   Unpacking objects:  66% (14/21)   Unpacking objects:  71% (15/21)   Unpacking objects:   4% (1/21)   Unpacking objects:   9% (2/21)   Unpacking objects:  14% (3/21)   Unpacking objects:  19% (4/21)   Unpacking objects:  23% (5/21)   Unpacking objects:  28% (6/21)   Unpacking objects:  33% (7/21)   Unpacking objects:  76% (16/21)   Unpacking objects:  80% (17/21)   Unpacking objects:  38% (8/21)   Unpacking objects:  42% (9/21)   Unpacking objects:  85% (18/21)   Unpacking objects:  90% (19/21)   Unpacking objects:  95% (20/21)   Unpacking objects:  47% (10/21)   Unpacking objects:  52% (11/21)   Unpacking objects:  57% (12/21)   Unpacking objects:  61% (13/21)   Unpacking objects:  66% (14/21)   Unpacking objects:  71% (15/21)   remote: Total 21 (delta 6), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects: 100% (21/21)   Unpacking objects: 100% (21/21), done.
+Unpacking objects:  76% (16/21)   Unpacking objects:  80% (17/21)   Unpacking objects:  85% (18/21)   Unpacking objects:  90% (19/21)   Unpacking objects:  95% (20/21)   From https://github.com/SyncFree/antidote
+   d27379b..3c1f667  CONS-g5k-clocksi -> origin/CONS-g5k-clocksi
+   9637039..0643917  client-log-req-tmp -> origin/client-log-req-tmp
+ * [new branch]      master-g5k -> origin/master-g5k
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+remote: Total 21 (delta 6), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects: 100% (21/21)   Unpacking objects: 100% (21/21), done.
+From https://github.com/SyncFree/antidote
+   d27379b..3c1f667  CONS-g5k-clocksi -> origin/CONS-g5k-clocksi
+   9637039..0643917  client-log-req-tmp -> origin/client-log-req-tmp
+ * [new branch]      master-g5k -> origin/master-g5k
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config finished.
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config finished.
+cd ./antidote/ && rm -r deps && mkdir deps  for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && rm -r deps && mkdir deps done
+rm: remove write-protected regular file ‘deps/riak_ensemble/.git/objects/pack/pack-723acdd1a1d1efbc11364374b42ef5eeb566a695.idx’? rm: remove write-protected regular file ‘deps/riak_ensemble/.git/objects/pack/pack-723acdd1a1d1efbc11364374b42ef5eeb566a695.idx’? rm: remove write-protected regular file ‘deps/riak_ensemble/.git/objects/pack/pack-723acdd1a1d1efbc11364374b42ef5eeb566a695.idx’? cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+Saved working directory and index state WIP on hydra: 85a765b Ft working
+HEAD is now at 85a765b Ft working
+Saved working directory and index state WIP on hydra: 85a765b Ft working
+Saved working directory and index state WIP on hydra: 85a765b Ft working
+HEAD is now at 85a765b Ft working
+HEAD is now at 85a765b Ft working
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config finished.
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config finished.
+cd ./antidote/ && rm -r deps && mkdir deps  for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && rm -r deps && mkdir deps done
+rm: remove write-protected regular file ‘deps/riak_ensemble/.git/objects/pack/pack-723acdd1a1d1efbc11364374b42ef5eeb566a695.idx’? rm: remove write-protected regular file ‘deps/riak_ensemble/.git/objects/pack/pack-723acdd1a1d1efbc11364374b42ef5eeb566a695.idx’? rm: remove write-protected regular file ‘deps/riak_ensemble/.git/objects/pack/pack-723acdd1a1d1efbc11364374b42ef5eeb566a695.idx’? cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && git stash && git fetch && git pull && git checkout evaluation_pb_tx && git pull done
+Saved working directory and index state WIP on hydra: 85a765b Ft working
+HEAD is now at 85a765b Ft working
+Saved working directory and index state WIP on hydra: 85a765b Ft working
+HEAD is now at 85a765b Ft working
+Saved working directory and index state WIP on hydra: 85a765b Ft working
+HEAD is now at 85a765b Ft working
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Already up-to-date.
+error: pathspec 'evaluation_pb_tx' did not match any file(s) known to git.
+Fail! (3)
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/vars.config finished.
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config done
+sed -i 's/127.0.0.1/localhost/g' ./antidote/rel/files/app.config finished.
+cd ./antidote/ && make clean && make rel for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+cd ./antidote/ && make clean && make rel done
+/home/ubuntu/antidote/rebar clean
+/home/ubuntu/antidote/rebar clean
+/home/ubuntu/antidote/rebar clean
+==> goldrush (clean)
+==> lager (clean)
+==> poolboy (clean)
+==> basho_stats (clean)
+==> getopt (clean)
+==> neotoma (clean)
+==> cuttlefish (clean)
+==> riak_sysmon (clean)
+==> eleveldb (clean)
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+rm -f db_bench arena_test bloom_test c_test cache_test cache2_test coding_test corruption_test crc32c_test db_test dbformat_test env_test filename_test filter_block_test flexcache_test log_test memenv_test perf_count_test skiplist_test table_test version_edit_test version_set_test write_batch_test leveldb_repair perf_dump sst_rewrite sst_scan db_bench_sqlite3 db_bench_tree_db libleveldb.a  libmemenv.a */*.o */*/*.o ios-x86/*/*.o ios-arm/*/*.o build_config.mk
+rm -rf ios-x86/* ios-arm/*
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+==> riak_ensemble (clean)
+==> pbkdf2 (clean)
+==> goldrush (clean)
+==> lager (clean)
+==> goldrush (clean)
+==> edown (clean)
+==> lager (clean)
+==> parse_trans (clean)
+==> poolboy (clean)
+==> bear (clean)
+==> basho_stats (clean)
+==> meck (clean)
+==> poolboy (clean)
+==> folsom (clean)
+==> basho_stats (clean)
+==> getopt (clean)
+==> neotoma (clean)
+==> setup (clean)
+==> cuttlefish (clean)
+==> getopt (clean)
+==> src (clean)
+==> exometer_core (clean)
+==> neotoma (clean)
+==> riak_sysmon (clean)
+==> cuttlefish (clean)
+==> clique (clean)
+==> eleveldb (clean)
+==> riak_sysmon (clean)
+==> riak_core (clean)
+==> eleveldb (clean)
+==> riak_dt (clean)
+==> protobuffs (pre_clean)
+==> protobuffs (clean)
+==> riak_pb (pre_clean)
+==> riak_pb (clean)
+==> mochiweb (clean)
+==> webmachine (clean)
+==> riak_api (clean)
+==> erlzmq (clean)
+make[1]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/c_src'
+if test -e ../deps/zeromq3/Makefile; then \
+		cd ../deps/zeromq3; make clean; \
+	else \
+		true; \
+	fi
+make[2]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+Making clean in tests
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/tests'
+rm -rf .libs _libs
+ rm -f test_pair_inproc test_pair_tcp test_reqrep_inproc test_reqrep_tcp test_hwm test_reqrep_device test_sub_forward test_invalid_rep test_msg_flags test_connect_resolve test_connect_delay test_last_endpoint test_term_endpoint test_monitor test_router_mandatory test_shutdown_stress test_pair_ipc test_reqrep_ipc test_timeo
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/tests'
+Making clean in perf
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/perf'
+rm -rf .libs _libs
+ rm -f local_lat remote_lat local_thr remote_thr inproc_lat inproc_thr
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/perf'
+Making clean in doc
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/doc'
+rm -rf .libs _libs
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/doc'
+Making clean in src
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/src'
+test -z "libzmq.la" || rm -f libzmq.la
+rm -f "./so_locations"
+rm -rf .libs _libs
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/src'
+Making clean in .
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+rm -rf .libs _libs
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/c_src'
+==> antidote_pb (clean)
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+rm -f db_bench arena_test bloom_test c_test cache_test cache2_test coding_test corruption_test crc32c_test db_test dbformat_test env_test filename_test filter_block_test flexcache_test log_test memenv_test perf_count_test skiplist_test table_test version_edit_test version_set_test write_batch_test leveldb_repair perf_dump sst_rewrite sst_scan db_bench_sqlite3 db_bench_tree_db libleveldb.a  libmemenv.a */*.o */*/*.o ios-x86/*/*.o ios-arm/*/*.o build_config.mk
+rm -rf ios-x86/* ios-arm/*
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+==> riak_ensemble (clean)
+==> pbkdf2 (clean)
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+rm -f db_bench arena_test bloom_test c_test cache_test cache2_test coding_test corruption_test crc32c_test db_test dbformat_test env_test filename_test filter_block_test flexcache_test log_test memenv_test perf_count_test skiplist_test table_test version_edit_test version_set_test write_batch_test leveldb_repair perf_dump sst_rewrite sst_scan db_bench_sqlite3 db_bench_tree_db libleveldb.a  libmemenv.a */*.o */*/*.o ios-x86/*/*.o ios-arm/*/*.o build_config.mk
+rm -rf ios-x86/* ios-arm/*
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+==> riak_ensemble (clean)
+==> rel (clean)
+==> edown (clean)
+==> pbkdf2 (clean)
+==> parse_trans (clean)
+==> antidote (clean)
+==> edown (clean)
+==> bear (clean)
+==> parse_trans (clean)
+rm -rf riak_test/ebin
+/home/ubuntu/antidote/rebar get-deps
+==> meck (clean)
+==> bear (clean)
+==> meck (clean)
+==> folsom (clean)
+==> folsom (clean)
+==> setup (clean)
+==> setup (clean)
+==> src (clean)
+==> exometer_core (clean)
+==> src (clean)
+==> goldrush (get-deps)
+==> lager (get-deps)
+==> poolboy (get-deps)
+==> basho_stats (get-deps)
+==> getopt (get-deps)
+==> neotoma (get-deps)
+==> cuttlefish (get-deps)
+==> riak_sysmon (get-deps)
+==> eleveldb (get-deps)
+==> riak_ensemble (get-deps)
+==> pbkdf2 (get-deps)
+==> edown (get-deps)
+==> parse_trans (get-deps)
+==> bear (get-deps)
+==> meck (get-deps)
+==> folsom (get-deps)
+==> setup (get-deps)
+==> src (get-deps)
+==> exometer_core (get-deps)
+==> clique (get-deps)
+==> riak_core (get-deps)
+==> riak_dt (get-deps)
+==> protobuffs (get-deps)
+==> riak_pb (get-deps)
+==> mochiweb (get-deps)
+==> webmachine (get-deps)
+==> riak_api (get-deps)
+==> erlzmq (get-deps)
+==> antidote_pb (get-deps)
+==> rel (get-deps)
+==> antidote (get-deps)
+/home/ubuntu/antidote/rebar compile
+==> exometer_core (clean)
+==> clique (clean)
+==> riak_core (clean)
+==> riak_dt (clean)
+==> protobuffs (pre_clean)
+==> protobuffs (clean)
+==> riak_pb (pre_clean)
+==> riak_pb (clean)
+==> mochiweb (clean)
+==> webmachine (clean)
+==> riak_api (clean)
+==> erlzmq (clean)
+make[1]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/c_src'
+if test -e ../deps/zeromq3/Makefile; then \
+		cd ../deps/zeromq3; make clean; \
+	else \
+		true; \
+	fi
+make[2]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+Making clean in tests
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/tests'
+rm -rf .libs _libs
+ rm -f test_pair_inproc test_pair_tcp test_reqrep_inproc test_reqrep_tcp test_hwm test_reqrep_device test_sub_forward test_invalid_rep test_msg_flags test_connect_resolve test_connect_delay test_last_endpoint test_term_endpoint test_monitor test_router_mandatory test_shutdown_stress test_pair_ipc test_reqrep_ipc test_timeo
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/tests'
+Making clean in perf
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/perf'
+rm -rf .libs _libs
+ rm -f local_lat remote_lat local_thr remote_thr inproc_lat inproc_thr
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/perf'
+Making clean in doc
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/doc'
+rm -rf .libs _libs
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/doc'
+Making clean in src
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/src'
+test -z "libzmq.la" || rm -f libzmq.la
+rm -f "./so_locations"
+rm -rf .libs _libs
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/src'
+Making clean in .
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+rm -rf .libs _libs
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/c_src'
+==> antidote_pb (clean)
+==> rel (clean)
+==> antidote (clean)
+rm -rf riak_test/ebin
+/home/ubuntu/antidote/rebar get-deps
+==> goldrush (get-deps)
+==> lager (get-deps)
+==> poolboy (get-deps)
+==> basho_stats (get-deps)
+==> getopt (get-deps)
+==> neotoma (get-deps)
+==> cuttlefish (get-deps)
+==> riak_sysmon (get-deps)
+==> eleveldb (get-deps)
+==> clique (clean)
+==> riak_core (clean)
+==> riak_ensemble (get-deps)
+==> pbkdf2 (get-deps)
+==> riak_dt (clean)
+==> edown (get-deps)
+==> parse_trans (get-deps)
+==> bear (get-deps)
+==> meck (get-deps)
+==> folsom (get-deps)
+==> setup (get-deps)
+==> src (get-deps)
+==> exometer_core (get-deps)
+==> clique (get-deps)
+==> riak_core (get-deps)
+==> riak_dt (get-deps)
+==> protobuffs (pre_clean)
+==> protobuffs (clean)
+==> riak_pb (pre_clean)
+==> riak_pb (clean)
+==> mochiweb (clean)
+==> webmachine (clean)
+==> riak_api (clean)
+==> erlzmq (clean)
+make[1]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/c_src'
+if test -e ../deps/zeromq3/Makefile; then \
+		cd ../deps/zeromq3; make clean; \
+	else \
+		true; \
+	fi
+make[2]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+Making clean in tests
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/tests'
+rm -rf .libs _libs
+ rm -f test_pair_inproc test_pair_tcp test_reqrep_inproc test_reqrep_tcp test_hwm test_reqrep_device test_sub_forward test_invalid_rep test_msg_flags test_connect_resolve test_connect_delay test_last_endpoint test_term_endpoint test_monitor test_router_mandatory test_shutdown_stress test_pair_ipc test_reqrep_ipc test_timeo
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/tests'
+Making clean in perf
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/perf'
+rm -rf .libs _libs
+ rm -f local_lat remote_lat local_thr remote_thr inproc_lat inproc_thr
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/perf'
+Making clean in doc
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/doc'
+rm -rf .libs _libs
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/doc'
+Making clean in src
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/src'
+test -z "libzmq.la" || rm -f libzmq.la
+rm -f "./so_locations"
+rm -rf .libs _libs
+rm -f *.o
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3/src'
+Making clean in .
+make[3]: Entering directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+rm -rf .libs _libs
+rm -f *.lo
+make[3]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/deps/zeromq3'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/erlzmq/c_src'
+==> antidote_pb (clean)
+==> rel (clean)
+==> antidote (clean)
+rm -rf riak_test/ebin
+/home/ubuntu/antidote/rebar get-deps
+==> goldrush (compile)
+Compiled src/gr_counter_sup.erl
+Compiled src/gr_context.erl
+Compiled src/glc_ops.erl
+Compiled src/gr_app.erl
+Compiled src/gr_sup.erl
+Compiled src/gr_manager_sup.erl
+Compiled src/gr_param.erl
+Compiled src/gr_manager.erl
+Compiled src/gre.erl
+Compiled src/glc_lib.erl
+Compiled src/gr_param_sup.erl
+Compiled src/glc_code.erl
+Compiled src/glc.erl
+Compiled src/gr_counter.erl
+==> lager (compile)
+Compiled src/lager_util.erl
+Compiled src/lager_transform.erl
+Compiled src/lager_backend_throttle.erl
+Compiled src/lager_handler_watcher_sup.erl
+Compiled src/lager_crash_log.erl
+Compiled src/lager.erl
+Compiled src/lager_default_formatter.erl
+Compiled src/lager_sup.erl
+Compiled src/error_logger_lager_h.erl
+Compiled src/lager_console_backend.erl
+Compiled src/lager_config.erl
+Compiled src/lager_file_backend.erl
+Compiled src/lager_format.erl
+Compiled src/lager_app.erl
+Compiled src/lager_stdlib.erl
+Compiled src/lager_msg.erl
+Compiled src/lager_handler_watcher.erl
+Compiled src/lager_trunc_io.erl
+==> goldrush (get-deps)
+==> lager (get-deps)
+==> poolboy (get-deps)
+==> basho_stats (get-deps)
+==> getopt (get-deps)
+==> neotoma (get-deps)
+==> cuttlefish (get-deps)
+==> riak_sysmon (get-deps)
+==> eleveldb (get-deps)
+==> riak_ensemble (get-deps)
+==> pbkdf2 (get-deps)
+==> edown (get-deps)
+==> parse_trans (get-deps)
+==> bear (get-deps)
+==> meck (get-deps)
+==> folsom (get-deps)
+==> setup (get-deps)
+==> src (get-deps)
+==> exometer_core (get-deps)
+==> clique (get-deps)
+==> riak_core (get-deps)
+==> riak_dt (get-deps)
+==> poolboy (compile)
+Compiled src/poolboy_worker.erl
+Compiled src/poolboy_sup.erl
+Compiled src/poolboy.erl
+==> basho_stats (compile)
+Compiled src/basho_stats_utils.erl
+Compiled src/basho_stats_sample.erl
+Compiled src/basho_stats_rv.erl
+Compiled src/basho_stats_histogram.erl
+==> getopt (compile)
+Compiled src/getopt.erl
+==> neotoma (compile)
+Compiled src/neotoma.erl
+Compiled src/neotoma_parse.erl
+==> cuttlefish (compile)
+==> protobuffs (get-deps)
+==> riak_pb (get-deps)
+==> mochiweb (get-deps)
+==> webmachine (get-deps)
+==> riak_api (get-deps)
+==> erlzmq (get-deps)
+==> antidote_pb (get-deps)
+==> rel (get-deps)
+==> antidote (get-deps)
+/home/ubuntu/antidote/rebar compile
+==> protobuffs (get-deps)
+==> riak_pb (get-deps)
+==> mochiweb (get-deps)
+==> webmachine (get-deps)
+==> riak_api (get-deps)
+==> erlzmq (get-deps)
+Compiled src/cuttlefish_advanced.erl
+==> antidote_pb (get-deps)
+Compiled src/cuttlefish_flag.erl
+Compiled src/cuttlefish_validator.erl
+Compiled src/cuttlefish_bytesize.erl
+Compiled src/cuttlefish_effective.erl
+Compiled src/lager_stderr_backend.erl
+Compiled src/cuttlefish_schema.erl
+Compiled src/cuttlefish_vmargs.erl
+Compiled src/cuttlefish_datatypes.erl
+Compiled src/cuttlefish_translation.erl
+Compiled src/cuttlefish_mapping.erl
+Compiled src/cuttlefish_conf.erl
+==> rel (get-deps)
+==> antidote (get-deps)
+/home/ubuntu/antidote/rebar compile
+Compiled src/cuttlefish_unit.erl
+Compiled src/cuttlefish_generator.erl
+Compiled src/cuttlefish_escript.erl
+Compiled src/cuttlefish_duration.erl
+Compiled src/cuttlefish_error.erl
+Compiled src/cuttlefish.erl
+Compiled src/cuttlefish_util.erl
+Compiled src/conf_parse.erl
+Compiled src/cuttlefish_rebar_plugin.erl
+Compiled src/cuttlefish_duration_parse.erl
+Compiled src/cuttlefish_enum.erl
+Compiled src/cuttlefish_variable.erl
+==> goldrush (compile)
+==> getopt (escriptize)
+==> goldrush (escriptize)
+==> lager (escriptize)
+==> neotoma (escriptize)
+==> cuttlefish (escriptize)
+==> riak_sysmon (compile)
+Compiled src/riak_sysmon_app.erl
+Compiled src/riak_sysmon_example_handler.erl
+Compiled src/riak_sysmon_testhandler.erl
+Compiled src/riak_sysmon_sup.erl
+Compiled src/riak_sysmon_filter.erl
+==> eleveldb (compile)
+checking for a BSD-compatible install... /usr/bin/install -c
+==> goldrush (compile)
+Compiled src/gr_counter_sup.erl
+Compiled src/glc_ops.erl
+Compiled src/gr_context.erl
+Compiled src/gr_sup.erl
+Compiled src/gr_app.erl
+Compiled src/gr_manager_sup.erl
+Compiled src/gr_manager.erl
+Compiled src/gr_param.erl
+Compiled src/gre.erl
+Compiled src/glc_code.erl
+Compiled src/glc_lib.erl
+Compiled src/gr_param_sup.erl
+Compiled src/glc.erl
+Compiled src/gr_counter.erl
+==> lager (compile)
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for style of include used by make... GNU
+checking for gcc... cc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+Compiled src/lager_util.erl
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+Compiled src/lager_transform.erl
+checking whether cc accepts -g... yes
+Compiled src/lager_backend_throttle.erl
+Compiled src/lager_handler_watcher_sup.erl
+checking for cc option to accept ISO C89... none needed
+Compiled src/lager_crash_log.erl
+checking dependency style of cc... gcc3
+checking for a sed that does not truncate output... /bin/sed
+Compiled src/gr_counter_sup.erl
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for fgrep... /bin/grep -F
+checking for ld used by cc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 3458764513820540925
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... yes
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for ar... ar
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from cc object... ok
+checking how to run the C preprocessor... cc -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+Compiled src/gr_context.erl
+Compiled src/glc_ops.erl
+Compiled src/gr_app.erl
+Compiled src/gr_manager_sup.erl
+Compiled src/gr_sup.erl
+Compiled src/gr_manager.erl
+Compiled src/gr_param.erl
+Compiled src/gre.erl
+Compiled src/glc_lib.erl
+Compiled src/gr_param_sup.erl
+Compiled src/glc_code.erl
+Compiled src/glc.erl
+Compiled src/gr_counter.erl
+==> lager (compile)
+Compiled src/lager_util.erl
+Compiled src/lager_transform.erl
+Compiled src/lager_backend_throttle.erl
+Compiled src/lager_handler_watcher_sup.erl
+Compiled src/lager_crash_log.erl
+Compiled src/lager.erl
+Compiled src/lager_sup.erl
+Compiled src/error_logger_lager_h.erl
+Compiled src/lager_default_formatter.erl
+Compiled src/lager_console_backend.erl
+Compiled src/lager_config.erl
+Compiled src/lager_file_backend.erl
+Compiled src/lager_format.erl
+Compiled src/lager_stdlib.erl
+Compiled src/lager_app.erl
+Compiled src/lager_msg.erl
+Compiled src/lager_handler_watcher.erl
+Compiled src/lager_trunc_io.erl
+==> poolboy (compile)
+Compiled src/poolboy_worker.erl
+Compiled src/poolboy_sup.erl
+Compiled src/poolboy.erl
+==> basho_stats (compile)
+Compiled src/basho_stats_utils.erl
+Compiled src/basho_stats_sample.erl
+Compiled src/basho_stats_histogram.erl
+Compiled src/basho_stats_rv.erl
+==> getopt (compile)
+Compiled src/lager.erl
+Compiled src/lager_default_formatter.erl
+Compiled src/error_logger_lager_h.erl
+Compiled src/lager_sup.erl
+Compiled src/lager_console_backend.erl
+Compiled src/lager_config.erl
+Compiled src/lager_file_backend.erl
+Compiled src/lager_format.erl
+Compiled src/lager_stdlib.erl
+Compiled src/lager_app.erl
+Compiled src/lager_msg.erl
+Compiled src/lager_handler_watcher.erl
+checking if cc supports -fno-rtti -fno-exceptions... no
+checking for cc option to produce PIC... -fPIC -DPIC
+checking if cc PIC flag -fPIC -DPIC works... yes
+Compiled src/lager_trunc_io.erl
+checking if cc static flag -static works... yes
+checking if cc supports -c -o file.o... yes
+checking if cc supports -c -o file.o... (cached) yes
+checking whether the cc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+Compiled src/getopt.erl
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+==> poolboy (compile)
+Compiled src/poolboy_worker.erl
+Compiled src/poolboy_sup.erl
+checking whether we are using the GNU C++ compiler... yes
+Compiled src/poolboy.erl
+checking whether c++ accepts -g... yes
+==> neotoma (compile)
+checking dependency style of c++... gcc3
+checking whether we are using the GNU C++ compiler... (cached) yes
+checking whether c++ accepts -g... (cached) yes
+checking dependency style of c++... (cached) gcc3
+Compiled src/neotoma.erl
+checking how to run the C++ preprocessor... c++ -E
+==> basho_stats (compile)
+Compiled src/neotoma_parse.erl
+Compiled src/basho_stats_utils.erl
+Compiled src/basho_stats_sample.erl
+Compiled src/basho_stats_histogram.erl
+Compiled src/basho_stats_rv.erl
+checking for ld used by c++... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking whether the c++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+==> cuttlefish (compile)
+checking for c++ option to produce PIC... -fPIC -DPIC
+checking if c++ PIC flag -fPIC -DPIC works... yes
+==> getopt (compile)
+Compiled src/cuttlefish_flag.erl
+Compiled src/cuttlefish_advanced.erl
+Compiled src/cuttlefish_validator.erl
+Compiled src/cuttlefish_bytesize.erl
+Compiled src/cuttlefish_effective.erl
+Compiled src/lager_stderr_backend.erl
+Compiled src/cuttlefish_vmargs.erl
+Compiled src/cuttlefish_schema.erl
+Compiled src/cuttlefish_datatypes.erl
+Compiled src/cuttlefish_conf.erl
+Compiled src/cuttlefish_translation.erl
+Compiled src/cuttlefish_mapping.erl
+Compiled src/getopt.erl
+checking if c++ static flag -static works... yes
+checking if c++ supports -c -o file.o... yes
+checking if c++ supports -c -o file.o... (cached) yes
+checking whether the c++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+Compiled src/cuttlefish_unit.erl
+Compiled src/cuttlefish_escript.erl
+Compiled src/cuttlefish_generator.erl
+Compiled src/cuttlefish_duration.erl
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+Compiled src/cuttlefish_error.erl
+Compiled src/cuttlefish.erl
+==> neotoma (compile)
+Compiled src/cuttlefish_util.erl
+Compiled src/conf_parse.erl
+Compiled src/cuttlefish_rebar_plugin.erl
+Compiled src/cuttlefish_duration_parse.erl
+Compiled src/cuttlefish_enum.erl
+Compiled src/cuttlefish_variable.erl
+Compiled src/neotoma.erl
+checking whether byte ordering is bigendian... no
+checking for stdint.h... (cached) yes
+checking stddef.h usability... yes
+Compiled src/neotoma_parse.erl
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking sys/mman.h usability... yes
+checking sys/mman.h presence... yes
+checking for sys/mman.h... yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking windows.h usability... no
+checking windows.h presence... no
+checking for windows.h... no
+checking byteswap.h usability... yes
+checking byteswap.h presence... yes
+checking for byteswap.h... yes
+checking sys/byteswap.h usability... no
+checking sys/byteswap.h presence... no
+checking for sys/byteswap.h... no
+checking sys/endian.h usability... no
+checking sys/endian.h presence... no
+checking for sys/endian.h... no
+checking for mmap... yes
+checking for 'gtest-config'... checking for gtest-config... no
+no
+checking for pkg-config... no
+checking for gflags... checking if the compiler supports __builtin_expect... yes
+checking if the compiler supports __builtin_ctzll... yes
+checking for zlibVersion in -lz... no
+checking for lzo1x_1_15_compress in -llzo2... no
+==> getopt (escriptize)
+==> goldrush (escriptize)
+==> lager (escriptize)
+==> neotoma (escriptize)
+==> cuttlefish (escriptize)
+==> riak_sysmon (compile)
+Compiled src/riak_sysmon_app.erl
+Compiled src/riak_sysmon_example_handler.erl
+Compiled src/riak_sysmon_sup.erl
+Compiled src/riak_sysmon_testhandler.erl
+Compiled src/riak_sysmon_filter.erl
+==> cuttlefish (compile)
+checking for lzf_compress in -llzf... no
+==> eleveldb (compile)
+checking for fastlz_compress in -lfastlz... no
+checking for qlz_compress in -lquicklz... no
+configure: creating ./config.status
+checking for a BSD-compatible install... /usr/bin/install -c
+Compiled src/cuttlefish_advanced.erl
+Compiled src/cuttlefish_flag.erl
+Compiled src/cuttlefish_validator.erl
+Compiled src/cuttlefish_bytesize.erl
+Compiled src/cuttlefish_effective.erl
+Compiled src/lager_stderr_backend.erl
+Compiled src/cuttlefish_vmargs.erl
+Compiled src/cuttlefish_schema.erl
+Compiled src/cuttlefish_datatypes.erl
+Compiled src/cuttlefish_conf.erl
+Compiled src/cuttlefish_mapping.erl
+Compiled src/cuttlefish_translation.erl
+Compiled src/cuttlefish_escript.erl
+Compiled src/cuttlefish_unit.erl
+Compiled src/cuttlefish_generator.erl
+Compiled src/cuttlefish_duration.erl
+Compiled src/cuttlefish.erl
+Compiled src/cuttlefish_error.erl
+Compiled src/cuttlefish_util.erl
+Compiled src/conf_parse.erl
+Compiled src/cuttlefish_rebar_plugin.erl
+Compiled src/cuttlefish_enum.erl
+Compiled src/cuttlefish_duration_parse.erl
+Compiled src/cuttlefish_variable.erl
+config.status: creating Makefile
+config.status: creating snappy-stubs-public.h
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make  all-am
+make[2]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c -o snappy.lo snappy.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c snappy.cc  -fPIC -DPIC -o .libs/snappy.o
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+checking whether make sets $(MAKE)... yes
+snappy.cc: In member function ‘snappy::uint16* snappy::internal::WorkingMemory::GetHashTable(size_t, int*)’:
+snappy.cc:253:49: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   while (htsize < kMaxHashTableSize && htsize < input_size) {
+                                                 ^
+In file included from snappy-internal.h:34:0,
+                 from snappy.cc:30:
+snappy-stubs-internal.h:73:47: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define ARRAYSIZE(a) (sizeof(a) / sizeof(*(a)))
+                                               ^
+snappy.cc:260:17: note: in expansion of macro ‘ARRAYSIZE’
+   if (htsize <= ARRAYSIZE(small_table_)) {
+                 ^
+snappy.cc: In function ‘char* snappy::internal::CompressFragment(const char*, size_t, char*, snappy::uint16*, int)’:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:307:3: note: in expansion of macro ‘DCHECK_EQ’
+   DCHECK_EQ(kuint32max >> shift, table_size - 1);
+   ^
+snappy.cc: In function ‘size_t snappy::Compress(snappy::Source*, snappy::Sink*)’:
+snappy.cc:818:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     if (bytes_read >= num_to_read) {
+                       ^
+checking build system type... x86_64-unknown-linux-gnu
+snappy.cc:833:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       while (bytes_read < num_to_read) {
+                           ^
+checking host system type... x86_64-unknown-linux-gnu
+In file included from snappy-internal.h:34:0,
+                 from snappy.cc:30:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:840:7: note: in expansion of macro ‘DCHECK_EQ’
+       DCHECK_EQ(bytes_read, num_to_read);
+       ^
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:844:5: note: in expansion of macro ‘DCHECK_EQ’
+     DCHECK_EQ(fragment_size, num_to_read);
+     ^
+snappy.cc: In member function ‘bool snappy::SnappyArrayWriter::Append(const char*, snappy::uint32, bool)’:
+snappy.cc:913:24: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (space_left < len) {
+                        ^
+snappy.cc: In member function ‘bool snappy::SnappyArrayWriter::AppendFromSelf(snappy::uint32, snappy::uint32)’:
+snappy.cc:934:31: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (space_left >= len + kMaxIncrementCopyOverflow) {
+                               ^
+snappy.cc:937:26: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+         if (space_left < len) {
+                          ^
+checking for style of include used by make... GNU
+checking for gcc... cc
+snappy.cc: At global scope:
+snappy.cc:516:13: warning: ‘void snappy::ComputeTable()’ defined but not used [-Wunused-function]
+ static void ComputeTable() {
+             ^
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c snappy.cc  -fPIC -DPIC -o snappy.o >/dev/null 2>&1
+==> getopt (escriptize)
+==> goldrush (escriptize)
+==> lager (escriptize)
+==> neotoma (escriptize)
+==> cuttlefish (escriptize)
+==> riak_sysmon (compile)
+Compiled src/riak_sysmon_app.erl
+Compiled src/riak_sysmon_testhandler.erl
+Compiled src/riak_sysmon_sup.erl
+Compiled src/riak_sysmon_example_handler.erl
+Compiled src/riak_sysmon_filter.erl
+==> eleveldb (compile)
+mv -f .deps/snappy.Tpo .deps/snappy.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c -o snappy-sinksource.lo snappy-sinksource.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c snappy-sinksource.cc  -fPIC -DPIC -o .libs/snappy-sinksource.o
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c snappy-sinksource.cc  -fPIC -DPIC -o snappy-sinksource.o >/dev/null 2>&1
+checking for a BSD-compatible install... /usr/bin/install -c
+mv -f .deps/snappy-sinksource.Tpo .deps/snappy-sinksource.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c -o snappy-stubs-internal.lo snappy-stubs-internal.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c snappy-stubs-internal.cc  -fPIC -DPIC -o .libs/snappy-stubs-internal.o
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c snappy-stubs-internal.cc  -fPIC -DPIC -o snappy-stubs-internal.o >/dev/null 2>&1
+mv -f .deps/snappy-stubs-internal.Tpo .deps/snappy-stubs-internal.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c -o snappy-c.lo snappy-c.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c snappy-c.cc  -fPIC -DPIC -o .libs/snappy-c.o
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c snappy-c.cc  -fPIC -DPIC -o snappy-c.o >/dev/null 2>&1
+mv -f .deps/snappy-c.Tpo .deps/snappy-c.Plo
+/bin/bash ./libtool --tag=CXX   --mode=link c++  -Wall -O3 -fPIC -version-info 2:2:1  -o libsnappy.la -rpath /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib snappy.lo snappy-sinksource.lo snappy-stubs-internal.lo snappy-c.lo  
+libtool: link: c++ -shared -nostdlib /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o  .libs/snappy.o .libs/snappy-sinksource.o .libs/snappy-stubs-internal.o .libs/snappy-c.o   -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. -lstdc++ -lm -lc -lgcc_s /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o    -Wl,-soname -Wl,libsnappy.so.1 -o .libs/libsnappy.so.1.1.2
+libtool: link: (cd ".libs" && rm -f "libsnappy.so.1" && ln -s "libsnappy.so.1.1.2" "libsnappy.so.1")
+libtool: link: (cd ".libs" && rm -f "libsnappy.so" && ln -s "libsnappy.so.1.1.2" "libsnappy.so")
+libtool: link: ar cru .libs/libsnappy.a  snappy.o snappy-sinksource.o snappy-stubs-internal.o snappy-c.o
+checking whether build environment is sane... yes
+libtool: link: ranlib .libs/libsnappy.a
+checking for a thread-safe mkdir -p... /bin/mkdir -p
+checking for gawk... gawk
+libtool: link: ( cd ".libs" && rm -f "libsnappy.la" && ln -s "../libsnappy.la" "libsnappy.la" )
+checking whether make sets $(MAKE)... yes
+c++ -DHAVE_CONFIG_H -I.      -Wall -O3 -fPIC -MT snappy_unittest-snappy_unittest.o -MD -MP -MF .deps/snappy_unittest-snappy_unittest.Tpo -c -o snappy_unittest-snappy_unittest.o `test -f 'snappy_unittest.cc' || echo './'`snappy_unittest.cc
+checking build system type... x86_64-unknown-linux-gnu
+checking host system type... x86_64-unknown-linux-gnu
+checking for style of include used by make... GNU
+checking for gcc... cc
+In file included from snappy_unittest.cc:39:0:
+snappy-test.h: In function ‘void {anonymous}::File::ReadFileToStringOrDie(const char*, std::string*)’:
+snappy-test.h:138:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (ret == -1) {
+                   ^
+snappy_unittest.cc: In function ‘void snappy::Measure(const char*, size_t, snappy::CompressorType, int, int)’:
+snappy_unittest.cc:451:41: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < compressed.size(); i++) {
+                                         ^
+snappy_unittest.cc: In function ‘void snappy::Test_CorruptedTest_VerifyCorrupted()’:
+snappy_unittest.cc:582:37: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i = 0; i < source.length(); ++i) {
+                                     ^
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_RandomData()’:
+snappy_unittest.cc:725:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     while (x.size() < len) {
+                       ^
+snappy_unittest.cc:731:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       while (run_len-- > 0 && x.size() < len) {
+                                          ^
+In file included from snappy-internal.h:34:0,
+                 from snappy_unittest.cc:38:
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_FourByteOffset()’:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy_unittest.cc:765:3: note: in expansion of macro ‘CHECK_EQ’
+   CHECK_EQ(length, src.size());
+   ^
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_FindMatchLengthRandom()’:
+snappy_unittest.cc:958:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     if (matched == t.size()) {
+                           ^
+In file included from snappy-internal.h:34:0,
+                 from snappy_unittest.cc:38:
+snappy_unittest.cc: In function ‘void snappy::BM_UFlat(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1057:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘void snappy::BM_UValidate(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1082:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘void snappy::BM_ZFlat(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1105:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘size_t snappy::MinimumRequiredOutputSpace(size_t, snappy::CompressorType)’:
+snappy_unittest.cc:165:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+mv -f .deps/snappy_unittest-snappy_unittest.Tpo .deps/snappy_unittest-snappy_unittest.Po
+c++ -DHAVE_CONFIG_H -I.      -Wall -O3 -fPIC -MT snappy_unittest-snappy-test.o -MD -MP -MF .deps/snappy_unittest-snappy-test.Tpo -c -o snappy_unittest-snappy-test.o `test -f 'snappy-test.cc' || echo './'`snappy-test.cc
+In file included from snappy-test.cc:31:0:
+snappy-test.h: In function ‘void {anonymous}::File::ReadFileToStringOrDie(const char*, std::string*)’:
+snappy-test.h:138:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (ret == -1) {
+                   ^
+snappy-test.h: At global scope:
+snappy-test.h:449:13: warning: ‘void RunSpecifiedBenchmarks()’ defined but not used [-Wunused-function]
+ static void RunSpecifiedBenchmarks() {
+             ^
+snappy-test.h:495:13: warning: ‘void snappy::CompressFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void CompressFile(const char* fname);
+             ^
+snappy-test.h:496:13: warning: ‘void snappy::UncompressFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void UncompressFile(const char* fname);
+             ^
+snappy-test.h:497:13: warning: ‘void snappy::MeasureFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void MeasureFile(const char* fname);
+             ^
+mv -f .deps/snappy_unittest-snappy-test.Tpo .deps/snappy_unittest-snappy-test.Po
+/bin/bash ./libtool --tag=CXX   --mode=link c++  -Wall -O3 -fPIC   -o snappy_unittest snappy_unittest-snappy_unittest.o snappy_unittest-snappy-test.o libsnappy.la    
+libtool: link: c++ -Wall -O3 -fPIC -o .libs/snappy_unittest snappy_unittest-snappy_unittest.o snappy_unittest-snappy-test.o  ./.libs/libsnappy.so -Wl,-rpath -Wl,/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[2]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib"
+ /bin/bash ./libtool   --mode=install /usr/bin/install -c   libsnappy.la '/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib'
+libtool: install: /usr/bin/install -c .libs/libsnappy.so.1.1.2 /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.so.1.1.2
+libtool: install: (cd /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib && { ln -s -f libsnappy.so.1.1.2 libsnappy.so.1 || { rm -f libsnappy.so.1 && ln -s libsnappy.so.1.1.2 libsnappy.so.1; }; })
+libtool: install: (cd /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib && { ln -s -f libsnappy.so.1.1.2 libsnappy.so || { rm -f libsnappy.so && ln -s libsnappy.so.1.1.2 libsnappy.so; }; })
+libtool: install: /usr/bin/install -c .libs/libsnappy.lai /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.la
+libtool: install: /usr/bin/install -c .libs/libsnappy.a /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: install: chmod 644 /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: install: ranlib /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: finish: PATH="/usr/lib/erlang/erts-5.10.1/bin:/usr/lib/erlang/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/sbin" ldconfig -n /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+----------------------------------------------------------------------
+Libraries have been installed in:
+   /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+
+If you ever happen to want to link against installed libraries
+in a given directory, LIBDIR, you must either use libtool, and
+specify the full pathname of the library, or use the `-LLIBDIR'
+flag during linking and do at least one of the following:
+   - add LIBDIR to the `LD_LIBRARY_PATH' environment variable
+     during execution
+   - add LIBDIR to the `LD_RUN_PATH' environment variable
+     during linking
+   - use the `-Wl,-rpath -Wl,LIBDIR' linker flag
+   - have your system administrator add LIBDIR to `/etc/ld.so.conf'
+
+See any operating system documentation about shared libraries for
+more information, such as the ld(1) and ld.so(8) manual pages.
+----------------------------------------------------------------------
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy"
+ /usr/bin/install -c -m 644 ChangeLog COPYING INSTALL NEWS README format_description.txt '/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy'
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/include" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/include"
+ /usr/bin/install -c -m 644 snappy.h snappy-sinksource.h snappy-stubs-public.h snappy-c.h '/home/ubuntu/antidote/deps/eleveldb/c_src/system/include'
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/builder.cc -o db/builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/c.cc -o db/c.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/dbformat.cc -o db/dbformat.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/db_impl.cc -o db/db_impl.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/db_iter.cc -o db/db_iter.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/filename.cc -o db/filename.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/log_reader.cc -o db/log_reader.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/log_writer.cc -o db/log_writer.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/memtable.cc -o db/memtable.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/repair.cc -o db/repair.o
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/table_cache.cc -o db/table_cache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/version_edit.cc -o db/version_edit.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/version_set.cc -o db/version_set.o
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/write_batch.cc -o db/write_batch.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/block_builder.cc -o table/block_builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/block.cc -o table/block.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/filter_block.cc -o table/filter_block.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/format.cc -o table/format.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/iterator.cc -o table/iterator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/merger.cc -o table/merger.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/table_builder.cc -o table/table_builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/table.cc -o table/table.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/two_level_iterator.cc -o table/two_level_iterator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/arena.cc -o util/arena.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/bloom2.cc -o util/bloom2.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/bloom.cc -o util/bloom.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/cache2.cc -o util/cache2.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/cache.cc -o util/cache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/coding.cc -o util/coding.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/comparator.cc -o util/comparator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/crc32c.cc -o util/crc32c.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/db_list.cc -o util/db_list.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/env.cc -o util/env.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/env_posix.cc -o util/env_posix.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/filter_policy.cc -o util/filter_policy.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/flexcache.cc -o util/flexcache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/hash.cc -o util/hash.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/histogram.cc -o util/histogram.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/hot_threads.cc -o util/hot_threads.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/logging.cc -o util/logging.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/murmurhash.cc -o util/murmurhash.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/options.cc -o util/options.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/perf_count.cc -o util/perf_count.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/status.cc -o util/status.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/thread_tasks.cc -o util/thread_tasks.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/throttle.cc -o util/throttle.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c port/port_posix.cc -o port/port_posix.o
+cc  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -O3 -std=c99 -Wall -Wextra -Wundef -Wshadow -Wcast-qual -Wcast-align -Wstrict-prototypes -pedantic -DLZ4_VERSION=\"r130\"  -c util/lz4.c -o util/lz4.o
+rm -f libleveldb.a
+ar -rs libleveldb.a db/builder.o db/c.o db/dbformat.o db/db_impl.o db/db_iter.o db/filename.o db/log_reader.o db/log_writer.o db/memtable.o db/repair.o db/table_cache.o db/version_edit.o db/version_set.o db/write_batch.o table/block_builder.o table/block.o table/filter_block.o table/format.o table/iterator.o table/merger.o table/table_builder.o table/table.o table/two_level_iterator.o util/arena.o util/bloom2.o util/bloom.o util/cache2.o util/cache.o util/coding.o util/comparator.o util/crc32c.o util/db_list.o util/env.o util/env_posix.o util/filter_policy.o util/flexcache.o util/hash.o util/histogram.o util/hot_threads.o util/logging.o util/murmurhash.o util/options.o util/perf_count.o util/status.o util/thread_tasks.o util/throttle.o port/port_posix.o util/lz4.o
+ar: creating libleveldb.a
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+Compiled src/eleveldb_bump.erl
+Compiled src/eleveldb.erl
+Compiling c_src/eleveldb.cc
+Compiling c_src/refobjects.cc
+Compiling c_src/threading.cc
+Compiling c_src/workitems.cc
+==> riak_ensemble (compile)
+Compiling c_src/riak_ensemble_clock.c
+ERROR: One or more modules listed in riak_ensemble.app are not present in ebin/*.beam:
+	* riak_ensemble_app
+	* riak_ensemble_backend
+	* riak_ensemble_basic_backend
+	* riak_ensemble_client
+	* riak_ensemble_clock
+	* riak_ensemble_config
+	* riak_ensemble_exchange
+	* riak_ensemble_lease
+	* riak_ensemble_manager
+	* riak_ensemble_msg
+	* riak_ensemble_peer
+	* riak_ensemble_peer_sup
+	* riak_ensemble_peer_tree
+	* riak_ensemble_peer_worker
+	* riak_ensemble_root
+	* riak_ensemble_router
+	* riak_ensemble_router_sup
+	* riak_ensemble_save
+	* riak_ensemble_state
+	* riak_ensemble_storage
+	* riak_ensemble_sup
+	* riak_ensemble_test
+	* riak_ensemble_util
+	* synctree
+	* synctree_ets
+	* synctree_leveldb
+	* synctree_orddict
+ERROR: compile failed while processing /home/ubuntu/antidote/deps/riak_ensemble: rebar_abort
+make: *** [compile] Error 1
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether cc accepts -g... yes
+checking for cc option to accept ISO C89... none needed
+checking dependency style of cc... gcc3
+checking for a sed that does not truncate output... /bin/sed
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for fgrep... /bin/grep -F
+checking for ld used by cc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 3458764513820540925
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... yes
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for ar... ar
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from cc object... ok
+checking how to run the C preprocessor... cc -E
+checking whether we are cross compiling... no
+checking for ANSI C header files... yes
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking for sys/types.h... yes
+checking whether cc accepts -g... yes
+checking for sys/stat.h... yes
+checking for cc option to accept ISO C89... none needed
+checking for stdlib.h... yes
+checking dependency style of cc... gcc3
+checking for a sed that does not truncate output... /bin/sed
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for fgrep... /bin/grep -F
+checking for ld used by cc... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking for string.h... yes
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 3458764513820540925
+checking whether the shell understands some XSI constructs... yes
+checking whether the shell understands "+="... yes
+checking for /usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for ar... ar
+checking for strip... strip
+checking for ranlib... ranlib
+checking for memory.h... yes
+checking for strings.h... yes
+checking command to parse /usr/bin/nm -B output from cc object... ok
+checking for inttypes.h... yes
+checking how to run the C preprocessor... cc -E
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for ANSI C header files... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking if cc supports -fno-rtti -fno-exceptions... no
+checking for cc option to produce PIC... -fPIC -DPIC
+checking for stdlib.h... yes
+checking if cc PIC flag -fPIC -DPIC works... yes
+checking for string.h... yes
+checking if cc static flag -static works... yes
+checking for memory.h... yes
+checking if cc supports -c -o file.o... yes
+checking if cc supports -c -o file.o... (cached) yes
+checking whether the cc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking whether -lc should be explicitly linked in... no
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+checking if cc supports -fno-rtti -fno-exceptions... no
+checking for cc option to produce PIC... -fPIC -DPIC
+checking if cc PIC flag -fPIC -DPIC works... yes
+checking whether we are using the GNU C++ compiler... yes
+checking if cc static flag -static works... yes
+checking whether c++ accepts -g... yes
+checking dependency style of c++... gcc3
+checking whether we are using the GNU C++ compiler... (cached) yes
+checking whether c++ accepts -g... (cached) yes
+checking dependency style of c++... (cached) gcc3
+checking how to run the C++ preprocessor... c++ -E
+checking if cc supports -c -o file.o... yes
+checking if cc supports -c -o file.o... (cached) yes
+checking whether the cc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking whether -lc should be explicitly linked in... no
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... yes
+checking whether to build static libraries... yes
+checking for ld used by c++... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking whether the c++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking whether we are using the GNU C++ compiler... yes
+checking for c++ option to produce PIC... -fPIC -DPIC
+checking whether c++ accepts -g... yes
+checking if c++ PIC flag -fPIC -DPIC works... yes
+checking dependency style of c++... gcc3
+checking whether we are using the GNU C++ compiler... (cached) yes
+checking whether c++ accepts -g... (cached) yes
+checking dependency style of c++... (cached) gcc3
+checking if c++ static flag -static works... yes
+checking how to run the C++ preprocessor... c++ -E
+checking if c++ supports -c -o file.o... yes
+checking if c++ supports -c -o file.o... (cached) yes
+checking whether the c++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking for ld used by c++... /usr/bin/ld -m elf_x86_64
+checking if the linker (/usr/bin/ld -m elf_x86_64) is GNU ld... yes
+checking whether the c++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking for c++ option to produce PIC... -fPIC -DPIC
+checking if c++ PIC flag -fPIC -DPIC works... yes
+checking if c++ static flag -static works... yes
+checking whether byte ordering is bigendian... no
+checking for stdint.h... (cached) yes
+checking if c++ supports -c -o file.o... yes
+checking if c++ supports -c -o file.o... (cached) yes
+checking whether the c++ linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+checking dynamic linker characteristics... GNU/Linux ld.so
+checking how to hardcode library paths into programs... immediate
+checking stddef.h usability... yes
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking whether byte ordering is bigendian... no
+checking for stdint.h... (cached) yes
+checking stddef.h usability... yes
+checking stddef.h presence... yes
+checking for stddef.h... yes
+checking sys/mman.h usability... yes
+checking sys/mman.h presence... yes
+checking for sys/mman.h... yes
+checking sys/mman.h usability... yes
+checking sys/mman.h presence... yes
+checking for sys/mman.h... yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking windows.h usability... no
+checking windows.h presence... no
+checking for windows.h... no
+checking windows.h usability... no
+checking byteswap.h usability... yes
+checking windows.h presence... no
+checking for windows.h... no
+checking byteswap.h presence... yes
+checking for byteswap.h... yes
+checking byteswap.h usability... yes
+checking byteswap.h presence... yes
+checking for byteswap.h... yes
+checking sys/byteswap.h usability... no
+checking sys/byteswap.h presence... no
+checking for sys/byteswap.h... no
+checking sys/byteswap.h usability... no
+checking sys/endian.h usability... no
+checking sys/endian.h presence... no
+checking for sys/endian.h... no
+checking sys/byteswap.h presence... no
+checking for sys/byteswap.h... no
+checking for mmap... yes
+checking for 'gtest-config'... checking for gtest-config... no
+no
+checking for pkg-config... no
+checking for gflags... checking if the compiler supports __builtin_expect... yes
+checking if the compiler supports __builtin_ctzll... yes
+checking sys/endian.h usability... no
+checking sys/endian.h presence... no
+checking for sys/endian.h... no
+checking for mmap... yes
+checking for 'gtest-config'... checking for gtest-config... no
+no
+checking for pkg-config... no
+checking for gflags... checking if the compiler supports __builtin_expect... yes
+checking for zlibVersion in -lz... no
+checking for lzo1x_1_15_compress in -llzo2... no
+checking for lzf_compress in -llzf... no
+checking for fastlz_compress in -lfastlz... no
+checking for qlz_compress in -lquicklz... no
+checking if the compiler supports __builtin_ctzll... yes
+configure: creating ./config.status
+checking for zlibVersion in -lz... no
+checking for lzo1x_1_15_compress in -llzo2... no
+checking for lzf_compress in -llzf... no
+config.status: creating Makefile
+config.status: creating snappy-stubs-public.h
+config.status: creating config.h
+config.status: executing depfiles commands
+config.status: executing libtool commands
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make  all-am
+make[2]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c -o snappy.lo snappy.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c snappy.cc  -fPIC -DPIC -o .libs/snappy.o
+snappy.cc: In member function ‘snappy::uint16* snappy::internal::WorkingMemory::GetHashTable(size_t, int*)’:
+snappy.cc:253:49: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   while (htsize < kMaxHashTableSize && htsize < input_size) {
+                                                 ^
+In file included from snappy-internal.h:34:0,
+                 from snappy.cc:30:
+snappy-stubs-internal.h:73:47: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define ARRAYSIZE(a) (sizeof(a) / sizeof(*(a)))
+                                               ^
+snappy.cc:260:17: note: in expansion of macro ‘ARRAYSIZE’
+   if (htsize <= ARRAYSIZE(small_table_)) {
+                 ^
+snappy.cc: In function ‘char* snappy::internal::CompressFragment(const char*, size_t, char*, snappy::uint16*, int)’:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:307:3: note: in expansion of macro ‘DCHECK_EQ’
+   DCHECK_EQ(kuint32max >> shift, table_size - 1);
+   ^
+snappy.cc: In function ‘size_t snappy::Compress(snappy::Source*, snappy::Sink*)’:
+snappy.cc:818:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     if (bytes_read >= num_to_read) {
+                       ^
+snappy.cc:833:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       while (bytes_read < num_to_read) {
+                           ^
+In file included from snappy-internal.h:34:0,
+                 from snappy.cc:30:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:840:7: note: in expansion of macro ‘DCHECK_EQ’
+       DCHECK_EQ(bytes_read, num_to_read);
+       ^
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:844:5: note: in expansion of macro ‘DCHECK_EQ’
+     DCHECK_EQ(fragment_size, num_to_read);
+     ^
+snappy.cc: In member function ‘bool snappy::SnappyArrayWriter::Append(const char*, snappy::uint32, bool)’:
+snappy.cc:913:24: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (space_left < len) {
+                        ^
+snappy.cc: In member function ‘bool snappy::SnappyArrayWriter::AppendFromSelf(snappy::uint32, snappy::uint32)’:
+snappy.cc:934:31: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (space_left >= len + kMaxIncrementCopyOverflow) {
+                               ^
+snappy.cc:937:26: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+         if (space_left < len) {
+                          ^
+snappy.cc: At global scope:
+snappy.cc:516:13: warning: ‘void snappy::ComputeTable()’ defined but not used [-Wunused-function]
+ static void ComputeTable() {
+             ^
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c snappy.cc  -fPIC -DPIC -o snappy.o >/dev/null 2>&1
+checking for fastlz_compress in -lfastlz... no
+checking for qlz_compress in -lquicklz... no
+configure: creating ./config.status
+mv -f .deps/snappy.Tpo .deps/snappy.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c -o snappy-sinksource.lo snappy-sinksource.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c snappy-sinksource.cc  -fPIC -DPIC -o .libs/snappy-sinksource.o
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c snappy-sinksource.cc  -fPIC -DPIC -o snappy-sinksource.o >/dev/null 2>&1
+config.status: creating Makefile
+config.status: creating snappy-stubs-public.h
+config.status: creating config.h
+config.status: executing depfiles commands
+mv -f .deps/snappy-sinksource.Tpo .deps/snappy-sinksource.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c -o snappy-stubs-internal.lo snappy-stubs-internal.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c snappy-stubs-internal.cc  -fPIC -DPIC -o .libs/snappy-stubs-internal.o
+config.status: executing libtool commands
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make  all-am
+make[2]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c -o snappy.lo snappy.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c snappy.cc  -fPIC -DPIC -o .libs/snappy.o
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c snappy-stubs-internal.cc  -fPIC -DPIC -o snappy-stubs-internal.o >/dev/null 2>&1
+snappy.cc: In member function ‘snappy::uint16* snappy::internal::WorkingMemory::GetHashTable(size_t, int*)’:
+snappy.cc:253:49: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   while (htsize < kMaxHashTableSize && htsize < input_size) {
+                                                 ^
+In file included from snappy-internal.h:34:0,
+                 from snappy.cc:30:
+snappy-stubs-internal.h:73:47: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define ARRAYSIZE(a) (sizeof(a) / sizeof(*(a)))
+                                               ^
+snappy.cc:260:17: note: in expansion of macro ‘ARRAYSIZE’
+   if (htsize <= ARRAYSIZE(small_table_)) {
+                 ^
+snappy.cc: In function ‘char* snappy::internal::CompressFragment(const char*, size_t, char*, snappy::uint16*, int)’:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:307:3: note: in expansion of macro ‘DCHECK_EQ’
+   DCHECK_EQ(kuint32max >> shift, table_size - 1);
+   ^
+snappy.cc: In function ‘size_t snappy::Compress(snappy::Source*, snappy::Sink*)’:
+snappy.cc:818:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     if (bytes_read >= num_to_read) {
+                       ^
+snappy.cc:833:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       while (bytes_read < num_to_read) {
+                           ^
+In file included from snappy-internal.h:34:0,
+                 from snappy.cc:30:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:840:7: note: in expansion of macro ‘DCHECK_EQ’
+       DCHECK_EQ(bytes_read, num_to_read);
+       ^
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy-stubs-internal.h:173:25: note: in expansion of macro ‘CHECK_EQ’
+ #define DCHECK_EQ(a, b) CHECK_EQ(a, b)
+                         ^
+snappy.cc:844:5: note: in expansion of macro ‘DCHECK_EQ’
+     DCHECK_EQ(fragment_size, num_to_read);
+     ^
+snappy.cc: In member function ‘bool snappy::SnappyArrayWriter::Append(const char*, snappy::uint32, bool)’:
+snappy.cc:913:24: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (space_left < len) {
+                        ^
+snappy.cc: In member function ‘bool snappy::SnappyArrayWriter::AppendFromSelf(snappy::uint32, snappy::uint32)’:
+snappy.cc:934:31: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (space_left >= len + kMaxIncrementCopyOverflow) {
+                               ^
+snappy.cc:937:26: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+         if (space_left < len) {
+                          ^
+snappy.cc: At global scope:
+snappy.cc:516:13: warning: ‘void snappy::ComputeTable()’ defined but not used [-Wunused-function]
+ static void ComputeTable() {
+             ^
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy.lo -MD -MP -MF .deps/snappy.Tpo -c snappy.cc  -fPIC -DPIC -o snappy.o >/dev/null 2>&1
+mv -f .deps/snappy-stubs-internal.Tpo .deps/snappy-stubs-internal.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c -o snappy-c.lo snappy-c.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c snappy-c.cc  -fPIC -DPIC -o .libs/snappy-c.o
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c snappy-c.cc  -fPIC -DPIC -o snappy-c.o >/dev/null 2>&1
+mv -f .deps/snappy-c.Tpo .deps/snappy-c.Plo
+/bin/bash ./libtool --tag=CXX   --mode=link c++  -Wall -O3 -fPIC -version-info 2:2:1  -o libsnappy.la -rpath /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib snappy.lo snappy-sinksource.lo snappy-stubs-internal.lo snappy-c.lo  
+libtool: link: c++ -shared -nostdlib /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o  .libs/snappy.o .libs/snappy-sinksource.o .libs/snappy-stubs-internal.o .libs/snappy-c.o   -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. -lstdc++ -lm -lc -lgcc_s /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o    -Wl,-soname -Wl,libsnappy.so.1 -o .libs/libsnappy.so.1.1.2
+libtool: link: (cd ".libs" && rm -f "libsnappy.so.1" && ln -s "libsnappy.so.1.1.2" "libsnappy.so.1")
+libtool: link: (cd ".libs" && rm -f "libsnappy.so" && ln -s "libsnappy.so.1.1.2" "libsnappy.so")
+libtool: link: ar cru .libs/libsnappy.a  snappy.o snappy-sinksource.o snappy-stubs-internal.o snappy-c.o
+libtool: link: ranlib .libs/libsnappy.a
+mv -f .deps/snappy.Tpo .deps/snappy.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c -o snappy-sinksource.lo snappy-sinksource.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c snappy-sinksource.cc  -fPIC -DPIC -o .libs/snappy-sinksource.o
+libtool: link: ( cd ".libs" && rm -f "libsnappy.la" && ln -s "../libsnappy.la" "libsnappy.la" )
+c++ -DHAVE_CONFIG_H -I.      -Wall -O3 -fPIC -MT snappy_unittest-snappy_unittest.o -MD -MP -MF .deps/snappy_unittest-snappy_unittest.Tpo -c -o snappy_unittest-snappy_unittest.o `test -f 'snappy_unittest.cc' || echo './'`snappy_unittest.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-sinksource.lo -MD -MP -MF .deps/snappy-sinksource.Tpo -c snappy-sinksource.cc  -fPIC -DPIC -o snappy-sinksource.o >/dev/null 2>&1
+mv -f .deps/snappy-sinksource.Tpo .deps/snappy-sinksource.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c -o snappy-stubs-internal.lo snappy-stubs-internal.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c snappy-stubs-internal.cc  -fPIC -DPIC -o .libs/snappy-stubs-internal.o
+In file included from snappy_unittest.cc:39:0:
+snappy-test.h: In function ‘void {anonymous}::File::ReadFileToStringOrDie(const char*, std::string*)’:
+snappy-test.h:138:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (ret == -1) {
+                   ^
+snappy_unittest.cc: In function ‘void snappy::Measure(const char*, size_t, snappy::CompressorType, int, int)’:
+snappy_unittest.cc:451:41: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < compressed.size(); i++) {
+                                         ^
+snappy_unittest.cc: In function ‘void snappy::Test_CorruptedTest_VerifyCorrupted()’:
+snappy_unittest.cc:582:37: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i = 0; i < source.length(); ++i) {
+                                     ^
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_RandomData()’:
+snappy_unittest.cc:725:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     while (x.size() < len) {
+                       ^
+snappy_unittest.cc:731:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       while (run_len-- > 0 && x.size() < len) {
+                                          ^
+In file included from snappy-internal.h:34:0,
+                 from snappy_unittest.cc:38:
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_FourByteOffset()’:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy_unittest.cc:765:3: note: in expansion of macro ‘CHECK_EQ’
+   CHECK_EQ(length, src.size());
+   ^
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_FindMatchLengthRandom()’:
+snappy_unittest.cc:958:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     if (matched == t.size()) {
+                           ^
+In file included from snappy-internal.h:34:0,
+                 from snappy_unittest.cc:38:
+snappy_unittest.cc: In function ‘void snappy::BM_UFlat(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1057:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘void snappy::BM_UValidate(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1082:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘void snappy::BM_ZFlat(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1105:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘size_t snappy::MinimumRequiredOutputSpace(size_t, snappy::CompressorType)’:
+snappy_unittest.cc:165:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-stubs-internal.lo -MD -MP -MF .deps/snappy-stubs-internal.Tpo -c snappy-stubs-internal.cc  -fPIC -DPIC -o snappy-stubs-internal.o >/dev/null 2>&1
+mv -f .deps/snappy_unittest-snappy_unittest.Tpo .deps/snappy_unittest-snappy_unittest.Po
+c++ -DHAVE_CONFIG_H -I.      -Wall -O3 -fPIC -MT snappy_unittest-snappy-test.o -MD -MP -MF .deps/snappy_unittest-snappy-test.Tpo -c -o snappy_unittest-snappy-test.o `test -f 'snappy-test.cc' || echo './'`snappy-test.cc
+In file included from snappy-test.cc:31:0:
+snappy-test.h: In function ‘void {anonymous}::File::ReadFileToStringOrDie(const char*, std::string*)’:
+snappy-test.h:138:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (ret == -1) {
+                   ^
+mv -f .deps/snappy-stubs-internal.Tpo .deps/snappy-stubs-internal.Plo
+/bin/bash ./libtool --tag=CXX   --mode=compile c++ -DHAVE_CONFIG_H -I.     -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c -o snappy-c.lo snappy-c.cc
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c snappy-c.cc  -fPIC -DPIC -o .libs/snappy-c.o
+snappy-test.h: At global scope:
+snappy-test.h:449:13: warning: ‘void RunSpecifiedBenchmarks()’ defined but not used [-Wunused-function]
+ static void RunSpecifiedBenchmarks() {
+             ^
+snappy-test.h:495:13: warning: ‘void snappy::CompressFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void CompressFile(const char* fname);
+             ^
+snappy-test.h:496:13: warning: ‘void snappy::UncompressFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void UncompressFile(const char* fname);
+             ^
+snappy-test.h:497:13: warning: ‘void snappy::MeasureFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void MeasureFile(const char* fname);
+             ^
+libtool: compile:  c++ -DHAVE_CONFIG_H -I. -Wall -O3 -fPIC -MT snappy-c.lo -MD -MP -MF .deps/snappy-c.Tpo -c snappy-c.cc  -fPIC -DPIC -o snappy-c.o >/dev/null 2>&1
+mv -f .deps/snappy-c.Tpo .deps/snappy-c.Plo
+/bin/bash ./libtool --tag=CXX   --mode=link c++  -Wall -O3 -fPIC -version-info 2:2:1  -o libsnappy.la -rpath /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib snappy.lo snappy-sinksource.lo snappy-stubs-internal.lo snappy-c.lo  
+libtool: link: c++ -shared -nostdlib /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.8/crtbeginS.o  .libs/snappy.o .libs/snappy-sinksource.o .libs/snappy-stubs-internal.o .libs/snappy-c.o   -L/usr/lib/gcc/x86_64-linux-gnu/4.8 -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.8/../../.. -lstdc++ -lm -lc -lgcc_s /usr/lib/gcc/x86_64-linux-gnu/4.8/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../x86_64-linux-gnu/crtn.o    -Wl,-soname -Wl,libsnappy.so.1 -o .libs/libsnappy.so.1.1.2
+libtool: link: (cd ".libs" && rm -f "libsnappy.so.1" && ln -s "libsnappy.so.1.1.2" "libsnappy.so.1")
+libtool: link: (cd ".libs" && rm -f "libsnappy.so" && ln -s "libsnappy.so.1.1.2" "libsnappy.so")
+libtool: link: ar cru .libs/libsnappy.a  snappy.o snappy-sinksource.o snappy-stubs-internal.o snappy-c.o
+libtool: link: ranlib .libs/libsnappy.a
+mv -f .deps/snappy_unittest-snappy-test.Tpo .deps/snappy_unittest-snappy-test.Po
+/bin/bash ./libtool --tag=CXX   --mode=link c++  -Wall -O3 -fPIC   -o snappy_unittest snappy_unittest-snappy_unittest.o snappy_unittest-snappy-test.o libsnappy.la    
+libtool: link: c++ -Wall -O3 -fPIC -o .libs/snappy_unittest snappy_unittest-snappy_unittest.o snappy_unittest-snappy-test.o  ./.libs/libsnappy.so -Wl,-rpath -Wl,/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[2]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib"
+ /bin/bash ./libtool   --mode=install /usr/bin/install -c   libsnappy.la '/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib'
+libtool: install: /usr/bin/install -c .libs/libsnappy.so.1.1.2 /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.so.1.1.2
+libtool: install: (cd /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib && { ln -s -f libsnappy.so.1.1.2 libsnappy.so.1 || { rm -f libsnappy.so.1 && ln -s libsnappy.so.1.1.2 libsnappy.so.1; }; })
+libtool: install: (cd /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib && { ln -s -f libsnappy.so.1.1.2 libsnappy.so || { rm -f libsnappy.so && ln -s libsnappy.so.1.1.2 libsnappy.so; }; })
+libtool: install: /usr/bin/install -c .libs/libsnappy.lai /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.la
+libtool: install: /usr/bin/install -c .libs/libsnappy.a /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: install: chmod 644 /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: install: ranlib /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: finish: PATH="/usr/lib/erlang/erts-5.10.1/bin:/usr/lib/erlang/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/sbin" ldconfig -n /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+----------------------------------------------------------------------
+Libraries have been installed in:
+   /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+
+If you ever happen to want to link against installed libraries
+in a given directory, LIBDIR, you must either use libtool, and
+specify the full pathname of the library, or use the `-LLIBDIR'
+flag during linking and do at least one of the following:
+   - add LIBDIR to the `LD_LIBRARY_PATH' environment variable
+     during execution
+   - add LIBDIR to the `LD_RUN_PATH' environment variable
+     during linking
+   - use the `-Wl,-rpath -Wl,LIBDIR' linker flag
+   - have your system administrator add LIBDIR to `/etc/ld.so.conf'
+
+See any operating system documentation about shared libraries for
+more information, such as the ld(1) and ld.so(8) manual pages.
+----------------------------------------------------------------------
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy"
+ /usr/bin/install -c -m 644 ChangeLog COPYING INSTALL NEWS README format_description.txt '/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy'
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/include" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/include"
+ /usr/bin/install -c -m 644 snappy.h snappy-sinksource.h snappy-stubs-public.h snappy-c.h '/home/ubuntu/antidote/deps/eleveldb/c_src/system/include'
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/builder.cc -o db/builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/c.cc -o db/c.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/dbformat.cc -o db/dbformat.o
+libtool: link: ( cd ".libs" && rm -f "libsnappy.la" && ln -s "../libsnappy.la" "libsnappy.la" )
+c++ -DHAVE_CONFIG_H -I.      -Wall -O3 -fPIC -MT snappy_unittest-snappy_unittest.o -MD -MP -MF .deps/snappy_unittest-snappy_unittest.Tpo -c -o snappy_unittest-snappy_unittest.o `test -f 'snappy_unittest.cc' || echo './'`snappy_unittest.cc
+In file included from snappy_unittest.cc:39:0:
+snappy-test.h: In function ‘void {anonymous}::File::ReadFileToStringOrDie(const char*, std::string*)’:
+snappy-test.h:138:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (ret == -1) {
+                   ^
+snappy_unittest.cc: In function ‘void snappy::Measure(const char*, size_t, snappy::CompressorType, int, int)’:
+snappy_unittest.cc:451:41: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < compressed.size(); i++) {
+                                         ^
+snappy_unittest.cc: In function ‘void snappy::Test_CorruptedTest_VerifyCorrupted()’:
+snappy_unittest.cc:582:37: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i = 0; i < source.length(); ++i) {
+                                     ^
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_RandomData()’:
+snappy_unittest.cc:725:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     while (x.size() < len) {
+                       ^
+snappy_unittest.cc:731:42: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       while (run_len-- > 0 && x.size() < len) {
+                                          ^
+In file included from snappy-internal.h:34:0,
+                 from snappy_unittest.cc:38:
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_FourByteOffset()’:
+snappy-stubs-internal.h:153:46: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                                              ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:153:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_EQ(a, b) CRASH_UNLESS((a) == (b))
+                        ^
+snappy_unittest.cc:765:3: note: in expansion of macro ‘CHECK_EQ’
+   CHECK_EQ(length, src.size());
+   ^
+snappy_unittest.cc: In function ‘void snappy::Test_Snappy_FindMatchLengthRandom()’:
+snappy_unittest.cc:958:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     if (matched == t.size()) {
+                           ^
+In file included from snappy-internal.h:34:0,
+                 from snappy_unittest.cc:38:
+snappy_unittest.cc: In function ‘void snappy::BM_UFlat(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1057:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘void snappy::BM_UValidate(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1082:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘void snappy::BM_ZFlat(int, int)’:
+snappy-stubs-internal.h:155:45: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                                             ^
+snappy-stubs-internal.h:78:46: note: in definition of macro ‘PREDICT_TRUE’
+ #define PREDICT_TRUE(x) (__builtin_expect(!!(x), 1))
+                                              ^
+snappy-stubs-internal.h:155:24: note: in expansion of macro ‘CRASH_UNLESS’
+ #define CHECK_LT(a, b) CRASH_UNLESS((a) < (b))
+                        ^
+snappy_unittest.cc:1105:3: note: in expansion of macro ‘CHECK_LT’
+   CHECK_LT(arg, ARRAYSIZE(files));
+   ^
+snappy_unittest.cc: In function ‘size_t snappy::MinimumRequiredOutputSpace(size_t, snappy::CompressorType)’:
+snappy_unittest.cc:165:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/db_impl.cc -o db/db_impl.o
+mv -f .deps/snappy_unittest-snappy_unittest.Tpo .deps/snappy_unittest-snappy_unittest.Po
+c++ -DHAVE_CONFIG_H -I.      -Wall -O3 -fPIC -MT snappy_unittest-snappy-test.o -MD -MP -MF .deps/snappy_unittest-snappy-test.Tpo -c -o snappy_unittest-snappy-test.o `test -f 'snappy-test.cc' || echo './'`snappy-test.cc
+In file included from snappy-test.cc:31:0:
+snappy-test.h: In function ‘void {anonymous}::File::ReadFileToStringOrDie(const char*, std::string*)’:
+snappy-test.h:138:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+       if (ret == -1) {
+                   ^
+snappy-test.h: At global scope:
+snappy-test.h:449:13: warning: ‘void RunSpecifiedBenchmarks()’ defined but not used [-Wunused-function]
+ static void RunSpecifiedBenchmarks() {
+             ^
+snappy-test.h:495:13: warning: ‘void snappy::CompressFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void CompressFile(const char* fname);
+             ^
+snappy-test.h:496:13: warning: ‘void snappy::UncompressFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void UncompressFile(const char* fname);
+             ^
+snappy-test.h:497:13: warning: ‘void snappy::MeasureFile(const char*)’ declared ‘static’ but never defined [-Wunused-function]
+ static void MeasureFile(const char* fname);
+             ^
+mv -f .deps/snappy_unittest-snappy-test.Tpo .deps/snappy_unittest-snappy-test.Po
+/bin/bash ./libtool --tag=CXX   --mode=link c++  -Wall -O3 -fPIC   -o snappy_unittest snappy_unittest-snappy_unittest.o snappy_unittest-snappy-test.o libsnappy.la    
+libtool: link: c++ -Wall -O3 -fPIC -o .libs/snappy_unittest snappy_unittest-snappy_unittest.o snappy_unittest-snappy-test.o  ./.libs/libsnappy.so -Wl,-rpath -Wl,/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[2]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib"
+ /bin/bash ./libtool   --mode=install /usr/bin/install -c   libsnappy.la '/home/ubuntu/antidote/deps/eleveldb/c_src/system/lib'
+libtool: install: /usr/bin/install -c .libs/libsnappy.so.1.1.2 /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.so.1.1.2
+libtool: install: (cd /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib && { ln -s -f libsnappy.so.1.1.2 libsnappy.so.1 || { rm -f libsnappy.so.1 && ln -s libsnappy.so.1.1.2 libsnappy.so.1; }; })
+libtool: install: (cd /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib && { ln -s -f libsnappy.so.1.1.2 libsnappy.so || { rm -f libsnappy.so && ln -s libsnappy.so.1.1.2 libsnappy.so; }; })
+libtool: install: /usr/bin/install -c .libs/libsnappy.lai /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.la
+libtool: install: /usr/bin/install -c .libs/libsnappy.a /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: install: chmod 644 /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: install: ranlib /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib/libsnappy.a
+libtool: finish: PATH="/usr/lib/erlang/erts-5.10.1/bin:/usr/lib/erlang/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/sbin" ldconfig -n /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+----------------------------------------------------------------------
+Libraries have been installed in:
+   /home/ubuntu/antidote/deps/eleveldb/c_src/system/lib
+
+If you ever happen to want to link against installed libraries
+in a given directory, LIBDIR, you must either use libtool, and
+specify the full pathname of the library, or use the `-LLIBDIR'
+flag during linking and do at least one of the following:
+   - add LIBDIR to the `LD_LIBRARY_PATH' environment variable
+     during execution
+   - add LIBDIR to the `LD_RUN_PATH' environment variable
+     during linking
+   - use the `-Wl,-rpath -Wl,LIBDIR' linker flag
+   - have your system administrator add LIBDIR to `/etc/ld.so.conf'
+
+See any operating system documentation about shared libraries for
+more information, such as the ld(1) and ld.so(8) manual pages.
+----------------------------------------------------------------------
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy"
+ /usr/bin/install -c -m 644 ChangeLog COPYING INSTALL NEWS README format_description.txt '/home/ubuntu/antidote/deps/eleveldb/c_src/system/share/doc/snappy'
+test -z "/home/ubuntu/antidote/deps/eleveldb/c_src/system/include" || /bin/mkdir -p "/home/ubuntu/antidote/deps/eleveldb/c_src/system/include"
+ /usr/bin/install -c -m 644 snappy.h snappy-sinksource.h snappy-stubs-public.h snappy-c.h '/home/ubuntu/antidote/deps/eleveldb/c_src/system/include'
+make[2]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/snappy-1.0.4'
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/db_iter.cc -o db/db_iter.o
+make[1]: Entering directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/builder.cc -o db/builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/filename.cc -o db/filename.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/c.cc -o db/c.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/dbformat.cc -o db/dbformat.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/log_reader.cc -o db/log_reader.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/db_impl.cc -o db/db_impl.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/log_writer.cc -o db/log_writer.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/memtable.cc -o db/memtable.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/db_iter.cc -o db/db_iter.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/repair.cc -o db/repair.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/filename.cc -o db/filename.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/table_cache.cc -o db/table_cache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/version_edit.cc -o db/version_edit.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/log_reader.cc -o db/log_reader.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/version_set.cc -o db/version_set.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/log_writer.cc -o db/log_writer.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/memtable.cc -o db/memtable.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/repair.cc -o db/repair.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/write_batch.cc -o db/write_batch.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/block_builder.cc -o table/block_builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/table_cache.cc -o db/table_cache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/block.cc -o table/block.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/version_edit.cc -o db/version_edit.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/filter_block.cc -o table/filter_block.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/format.cc -o table/format.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/version_set.cc -o db/version_set.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/iterator.cc -o table/iterator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/merger.cc -o table/merger.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/table_builder.cc -o table/table_builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/table.cc -o table/table.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c db/write_batch.cc -o db/write_batch.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/block_builder.cc -o table/block_builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/two_level_iterator.cc -o table/two_level_iterator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/arena.cc -o util/arena.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/block.cc -o table/block.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/bloom2.cc -o util/bloom2.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/bloom.cc -o util/bloom.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/filter_block.cc -o table/filter_block.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/cache2.cc -o util/cache2.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/format.cc -o table/format.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/cache.cc -o util/cache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/iterator.cc -o table/iterator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/coding.cc -o util/coding.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/merger.cc -o table/merger.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/comparator.cc -o util/comparator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/crc32c.cc -o util/crc32c.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/db_list.cc -o util/db_list.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/table_builder.cc -o table/table_builder.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/env.cc -o util/env.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/table.cc -o table/table.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/env_posix.cc -o util/env_posix.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c table/two_level_iterator.cc -o table/two_level_iterator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/arena.cc -o util/arena.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/bloom2.cc -o util/bloom2.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/filter_policy.cc -o util/filter_policy.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/flexcache.cc -o util/flexcache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/hash.cc -o util/hash.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/histogram.cc -o util/histogram.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/hot_threads.cc -o util/hot_threads.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/logging.cc -o util/logging.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/bloom.cc -o util/bloom.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/murmurhash.cc -o util/murmurhash.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/cache2.cc -o util/cache2.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/options.cc -o util/options.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/perf_count.cc -o util/perf_count.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/cache.cc -o util/cache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/coding.cc -o util/coding.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/status.cc -o util/status.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/comparator.cc -o util/comparator.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/thread_tasks.cc -o util/thread_tasks.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/crc32c.cc -o util/crc32c.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/throttle.cc -o util/throttle.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c port/port_posix.cc -o port/port_posix.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/db_list.cc -o util/db_list.o
+cc  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -O3 -std=c99 -Wall -Wextra -Wundef -Wshadow -Wcast-qual -Wcast-align -Wstrict-prototypes -pedantic -DLZ4_VERSION=\"r130\"  -c util/lz4.c -o util/lz4.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/env.cc -o util/env.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/env_posix.cc -o util/env_posix.o
+rm -f libleveldb.a
+ar -rs libleveldb.a db/builder.o db/c.o db/dbformat.o db/db_impl.o db/db_iter.o db/filename.o db/log_reader.o db/log_writer.o db/memtable.o db/repair.o db/table_cache.o db/version_edit.o db/version_set.o db/write_batch.o table/block_builder.o table/block.o table/filter_block.o table/format.o table/iterator.o table/merger.o table/table_builder.o table/table.o table/two_level_iterator.o util/arena.o util/bloom2.o util/bloom.o util/cache2.o util/cache.o util/coding.o util/comparator.o util/crc32c.o util/db_list.o util/env.o util/env_posix.o util/filter_policy.o util/flexcache.o util/hash.o util/histogram.o util/hot_threads.o util/logging.o util/murmurhash.o util/options.o util/perf_count.o util/status.o util/thread_tasks.o util/throttle.o port/port_posix.o util/lz4.o
+ar: creating libleveldb.a
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+Compiled src/eleveldb_bump.erl
+Compiled src/eleveldb.erl
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/filter_policy.cc -o util/filter_policy.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/flexcache.cc -o util/flexcache.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/hash.cc -o util/hash.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/histogram.cc -o util/histogram.o
+Compiling c_src/eleveldb.cc
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/hot_threads.cc -o util/hot_threads.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/logging.cc -o util/logging.o
+Compiling c_src/refobjects.cc
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/murmurhash.cc -o util/murmurhash.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/options.cc -o util/options.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/perf_count.cc -o util/perf_count.o
+Compiling c_src/threading.cc
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/status.cc -o util/status.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/thread_tasks.cc -o util/thread_tasks.o
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c util/throttle.cc -o util/throttle.o
+Compiling c_src/workitems.cc
+==> riak_ensemble (compile)
+c++  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -DLEVELDB_VSN="2.1.3" -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -c port/port_posix.cc -o port/port_posix.o
+Compiling c_src/riak_ensemble_clock.c
+ERROR: One or more modules listed in riak_ensemble.app are not present in ebin/*.beam:
+	* riak_ensemble_app
+	* riak_ensemble_backend
+	* riak_ensemble_basic_backend
+	* riak_ensemble_client
+	* riak_ensemble_clock
+	* riak_ensemble_config
+	* riak_ensemble_exchange
+	* riak_ensemble_lease
+	* riak_ensemble_manager
+	* riak_ensemble_msg
+	* riak_ensemble_peer
+	* riak_ensemble_peer_sup
+	* riak_ensemble_peer_tree
+	* riak_ensemble_peer_worker
+	* riak_ensemble_root
+	* riak_ensemble_router
+	* riak_ensemble_router_sup
+	* riak_ensemble_save
+	* riak_ensemble_state
+	* riak_ensemble_storage
+	* riak_ensemble_sup
+	* riak_ensemble_test
+	* riak_ensemble_util
+	* synctree
+	* synctree_ets
+	* synctree_leveldb
+	* synctree_orddict
+ERROR: compile failed while processing /home/ubuntu/antidote/deps/riak_ensemble: rebar_abort
+cc  -Wall -O3 -fPIC -I /home/ubuntu/antidote/deps/eleveldb/c_src/system/include -I. -I./include -fno-builtin-memcmp -pthread -DOS_LINUX -DLEVELDB_PLATFORM_POSIX -DSNAPPY -O2 -g -DNDEBUG     -fPIC -O3 -std=c99 -Wall -Wextra -Wundef -Wshadow -Wcast-qual -Wcast-align -Wstrict-prototypes -pedantic -DLZ4_VERSION=\"r130\"  -c util/lz4.c -o util/lz4.o
+make: *** [compile] Error 1
+rm -f libleveldb.a
+ar -rs libleveldb.a db/builder.o db/c.o db/dbformat.o db/db_impl.o db/db_iter.o db/filename.o db/log_reader.o db/log_writer.o db/memtable.o db/repair.o db/table_cache.o db/version_edit.o db/version_set.o db/write_batch.o table/block_builder.o table/block.o table/filter_block.o table/format.o table/iterator.o table/merger.o table/table_builder.o table/table.o table/two_level_iterator.o util/arena.o util/bloom2.o util/bloom.o util/cache2.o util/cache.o util/coding.o util/comparator.o util/crc32c.o util/db_list.o util/env.o util/env_posix.o util/filter_policy.o util/flexcache.o util/hash.o util/histogram.o util/hot_threads.o util/logging.o util/murmurhash.o util/options.o util/perf_count.o util/status.o util/thread_tasks.o util/throttle.o port/port_posix.o util/lz4.o
+ar: creating libleveldb.a
+make[1]: Leaving directory `/home/ubuntu/antidote/deps/eleveldb/c_src/leveldb'
+Compiled src/eleveldb_bump.erl
+Compiled src/eleveldb.erl
+Compiling c_src/eleveldb.cc
+Compiling c_src/refobjects.cc
+Compiling c_src/threading.cc
+Compiling c_src/workitems.cc
+==> riak_ensemble (compile)
+Compiling c_src/riak_ensemble_clock.c
+ERROR: One or more modules listed in riak_ensemble.app are not present in ebin/*.beam:
+	* riak_ensemble_app
+	* riak_ensemble_backend
+	* riak_ensemble_basic_backend
+	* riak_ensemble_client
+	* riak_ensemble_clock
+	* riak_ensemble_config
+	* riak_ensemble_exchange
+	* riak_ensemble_lease
+	* riak_ensemble_manager
+	* riak_ensemble_msg
+	* riak_ensemble_peer
+	* riak_ensemble_peer_sup
+	* riak_ensemble_peer_tree
+	* riak_ensemble_peer_worker
+	* riak_ensemble_root
+	* riak_ensemble_router
+	* riak_ensemble_router_sup
+	* riak_ensemble_save
+	* riak_ensemble_state
+	* riak_ensemble_storage
+	* riak_ensemble_sup
+	* riak_ensemble_test
+	* riak_ensemble_util
+	* synctree
+	* synctree_ets
+	* synctree_leveldb
+	* synctree_orddict
+ERROR: compile failed while processing /home/ubuntu/antidote/deps/riak_ensemble: rebar_abort
+make: *** [compile] Error 1
+Fail! (3)

@@ -1,0 +1,16 @@
+Stopping nodes: 10.20.0.11 10.20.0.12 10.20.0.15
+pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+pkill beam done
+Fail! (3)
+rm -rf antidote/rel/antidote/data/* for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+rm -rf antidote/rel/antidote/data/* done
+rm: cannot remove ‘antidote/rel/antidote/data/ring’: Permission denied
+Fail! (1)
+rm -rf antidote/rel/antidote/log/* for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+rm -rf antidote/rel/antidote/log/* done
+rm: cannot remove ‘antidote/rel/antidote/log/sasl’: Permission denied
+Fail! (1)
+Starting nodes: 10.20.0.11 10.20.0.12 10.20.0.15
+antidote/rel/antidote/bin/antidote start for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+antidote/rel/antidote/bin/antidote start done
+antidote/rel/antidote/bin/antidote start finished.

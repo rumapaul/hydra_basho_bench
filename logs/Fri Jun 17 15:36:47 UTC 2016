@@ -1,0 +1,14 @@
+Stopping nodes: 10.20.0.11 10.20.0.12 10.20.0.15
+pkill beam for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+pkill beam done
+Fail! (3)
+rm -rf antidote/rel/antidote/data/* for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+rm -rf antidote/rel/antidote/data/* done
+Fail! (3)
+rm -rf antidote/rel/antidote/log/* for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+rm -rf antidote/rel/antidote/log/* done
+Fail! (3)
+Starting nodes: 10.20.0.11 10.20.0.12 10.20.0.15
+antidote/rel/antidote/bin/antidote start for nodes:10.20.0.11 10.20.0.12 10.20.0.15
+antidote/rel/antidote/bin/antidote start done
+Fail! (3)
