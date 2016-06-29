@@ -13,9 +13,9 @@ else
 fi
 
 
-Join="./antidote/rel/antidote/bin/antidote-admin cluster join antidote@$First"
-Plan="./antidote/rel/antidote/bin/antidote-admin cluster plan"
-Commit="./antidote/rel/antidote/bin/antidote-admin cluster commit"
+Join="sudo ./antidote/rel/antidote/bin/antidote-admin cluster join antidote@$First"
+Plan="sudo ./antidote/rel/antidote/bin/antidote-admin cluster plan"
+Commit="sudo ./antidote/rel/antidote/bin/antidote-admin cluster commit"
 ./script/command_to_all_slow.sh "$Others" "$Join"
 
 ./script/command_to_all.sh "$First" "$Plan"

@@ -7,7 +7,7 @@ else
     First=$1
 fi
 
-Status="antidote/rel/antidote/bin/antidote-admin member-status"
+Status="sudo ./antidote/rel/antidote/bin/antidote-admin member-status"
 
 while true; do
        sleep 10

@@ -301,9 +301,9 @@ run(append, KeyGen, ValueGen,
 		ok ->
 		    case antidotec_pb:commit_transaction(Pid, TxId) of
 			{ok, BCT} ->
-                report_staleness(MS, BCT, StartTime),
-                CT = binary_to_term(BCT),
-                {ok, State#state{commit_time=CT}};
+                		report_staleness(MS, BCT, StartTime),
+                		CT = binary_to_term(BCT),
+                		{ok, State#state{commit_time=CT}};
 			Error ->
 			    {error, Error, State}
 		    end;

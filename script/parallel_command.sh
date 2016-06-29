@@ -6,7 +6,7 @@ command=$2
 echo $command" for nodes:"$nodes 
 for node in $nodes
   do
-   ssh -t -o ConnectTimeout=3 -o StrictHostKeyChecking=no -i id_rsa -t ubuntu@$node ${command/localhost/$node} & 
+   ssh -t -o ConnectTimeout=3 -o StrictHostKeyChecking=no -i ruma_aws.pem -t ubuntu@$node ${command/localhost/$node} & 
 done
 echo $command done
 
