@@ -26,7 +26,7 @@
 
 -include("basho_bench.hrl").
 
--define(TIMEOUT, 20000).
+-define(TIMEOUT, 60000).
 -record(state, {worker_id,
                 time,
                 type_dict,
@@ -307,8 +307,15 @@ run(append, KeyGen, ValueGen,
 			Error ->
 			    {error, Error, State}
 		    end;
+                {error,timeout} ->
+            		lager:info("Timeout on client ~p",[Id]),
+            		antidotec_pb_socket:stop(Pid),
+            		{NewIP, NewPort, NewPid} = try_until(basho_bench_config:get(antidote_pb_ips), 
+                                                              basho_bench_config:get(antidote_pb_ports), Id),
+                        %{ok, NewPid} = antidotec_pb_socket:start_link(_Node, _Port),
+                        {error, timeout, State#state{pb_pid=NewPid, pb_port=NewPort, target_node=NewIP}    };
 		Error ->
-		    lager:info("Error append2 on client ~p : ~p",[Id, Error]),
+		    lager:info("Error append2 on append client ~p : ~p",[Id, Error]),
                     {error, Error, State}
 	    end;
         Error ->
