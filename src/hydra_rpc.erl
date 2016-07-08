@@ -334,7 +334,7 @@ run(append, KeyGen, ValueGen,
     %TxId = {static, {OldCommitTime, [{static, true}]}},
     case rpc:call(MyNode, antidote, clocksi_execute_tx, [OldCommitTime, [BObj], update_clock, true], 5000) of
 	{ok, {_TxId, [], CT}} ->
-                %lager:info("commit was successful on client ~p",[Id]),
+                lager:info("commit was successful on client ~p node ~p op ~p",[Id,MyNode,BObj]),
                 {ok, State#state{commit_time=CT,my_total_op=MyOpSequencer+1}};
 	{badrpc, nodedown} ->
 		lager:error("Nodedown id: ~p on node: ~p", [Id, MyNode]),

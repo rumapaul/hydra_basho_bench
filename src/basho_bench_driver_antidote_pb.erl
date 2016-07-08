@@ -66,9 +66,22 @@ new(Id) ->
     NumPartitions = basho_bench_config:get(num_vnodes),
     MeasureStaleness = basho_bench_config:get(staleness),
 
+    Cookie  = basho_bench_config:get(antidote_cookie),
+    MyNode  = basho_bench_config:get(antidote_mynode, [basho_bench, longnames]),
+
+    case net_kernel:start(MyNode) of
+        {ok, _} ->
+            ?INFO("Net kernel started as ~p\n", [node()]);
+        {error, {already_started, _}} ->
+            ok;
+        {error, Reason} ->
+            ?FAIL_MSG("Failed to start net_kernel for ~p: ~p\n", [?MODULE, Reason])
+    end,
+    true = erlang:set_cookie(node(), Cookie),
+
     %% Choose the node using our ID as a modulus
 
-    {IP, Port, Pid} = try_until(IPs, PbPorts, Id),
+    {IP, Port, Pid} = try_until(IPs, PbPorts, Id, Id),
     ?INFO("!!!!!!!!!!!!!!!!!!!!!!START!!!!!!!!!!!!!!!!!!!!! Using target node ~p, ~p for worker ~p\n", [IP, Port, Id]),
 
     TypeDict = dict:from_list(Types),
@@ -82,13 +95,27 @@ new(Id) ->
         num_reads=NumReads, num_updates=NumUpdates,
         measure_staleness=MeasureStaleness}}.
 
-try_until(IPs, Ports, Counter) ->
+try_until(IPs, Ports, Counter, Id) ->
     IP = lists:nth(Counter rem length(IPs) + 1, IPs),
     Port = lists:nth(Counter rem length(Ports) + 1, Ports),
-    case antidotec_pb_socket:start_link(IP, Port) of
-        {ok, Pid} -> {IP, Port, Pid};
-        _ -> try_until(IPs, Ports, Counter+1) 
+    Node = list_to_atom("antidote@" ++ atom_to_list(IP)),
+    case net_adm:ping(Node) of
+	pong ->
+    	    {ok, Pid} = antidotec_pb_socket:start_link(IP, Port),
+            {IP, Port, Pid};
+        pang ->
+            lager:info("Trying again to create a socket on client!! Id: ~p", [Id]),
+            try_until(IPs, Ports, Counter+1, Id) 
     end.
+    %lager:info("Trying to create new socket(to ip, port) on client (~p)  ~p,  ~p",[IP, Port, Id]),
+    %case antidotec_pb_socket:start_link(IP, Port) of
+    %    {ok, Pid} ->
+    %        lager:info("Established connection on client ~p - ~p", [Id, Pid]),
+    %        {IP, Port, Pid};
+    %    _ ->
+    %        lager:info("Trying again to create a socket on client!! Id: ~p", [Id]),
+    %        try_until(IPs, Ports, Counter+1, Id) 
+    %end.
 
 %% @doc Read a key
 run(read, KeyGen, _ValueGen, State=#state{pb_pid = Pid, worker_id = Id,
@@ -113,7 +140,15 @@ run(read, KeyGen, _ValueGen, State=#state{pb_pid = Pid, worker_id = Id,
 			    lager:info("Error read1 on client ~p",[Id]),
 			    {error, timeout, State}
 		    end;
+               {error,timeout} ->
+                        lager:info("Timeout on client ~p",[Id]),
+                        %antidotec_pb_socket:stop(Pid),
+                        {NewIP, NewPort, NewPid} = try_until(basho_bench_config:get(antidote_pb_ips),
+                                                              basho_bench_config:get(antidote_pb_ports), Id, Id),
+                        %{ok, NewPid} = antidotec_pb_socket:start_link(_Node, _Port),
+                        {error, timeout, State#state{pb_pid=NewPid, pb_port=NewPort, target_node=NewIP}    };
 		_Error ->
+         
 		    %lager:info("Error read2 on client ~p : ~p",[Id, Error]),
 		    {error, timeout, State}
 	    end;
@@ -292,26 +327,31 @@ run(append, KeyGen, ValueGen,
     Type = get_key_type(IntKey, TypeDict),
     [BObj] = get_random_param_new(IntKey,TypeDict, Type, ValueGen(), {LastKey,LastVal}, SetSize),
 
-    StartTime=now_microsec(), %% For staleness   
+    StartTime=now_microsec(), %% For staleness
+    %lager:info("Going to start transaction on client ~p",[Id]),   
     case antidotec_pb:start_transaction(Pid, term_to_binary(OldCommitTime), [{static, true}]) of
 	{ok, TxId} ->
+            %lager:info("start_transaction was successful on client ~p",[Id]),
 	    case antidotec_pb:update_objects(Pid,
                            [BObj],
 					     TxId) of
 		ok ->
+                    %lager:info("update_objectsts was successful on client ~p",[Id]),
 		    case antidotec_pb:commit_transaction(Pid, TxId) of
 			{ok, BCT} ->
                 		report_staleness(MS, BCT, StartTime),
                 		CT = binary_to_term(BCT),
+                                %lager:info("commit was successful on client ~p",[Id]),
                 		{ok, State#state{commit_time=CT}};
 			Error ->
+                            lager:info("Error commit  on client ~p : ~p",[Id, Error]),
 			    {error, Error, State}
 		    end;
                 {error,timeout} ->
             		lager:info("Timeout on client ~p",[Id]),
-            		antidotec_pb_socket:stop(Pid),
+            		%antidotec_pb_socket:stop(Pid),
             		{NewIP, NewPort, NewPid} = try_until(basho_bench_config:get(antidote_pb_ips), 
-                                                              basho_bench_config:get(antidote_pb_ports), Id),
+                                                              basho_bench_config:get(antidote_pb_ports), Id, Id),
                         %{ok, NewPid} = antidotec_pb_socket:start_link(_Node, _Port),
                         {error, timeout, State#state{pb_pid=NewPid, pb_port=NewPort, target_node=NewIP}    };
 		Error ->

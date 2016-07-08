@@ -35,13 +35,13 @@ echo Performing: ./script/parallel_command.sh "$AllNodes" "$Command0"
 #./script/parallel_command.sh "$AllNodes" "$Command0a" >> logs/"$JobId"/config_machines-"$Time"
 
 echo Performing: ./script/parallel_command.sh "$AllNodes" "$Command1"	
-./script/parallel_command.sh "$AllNodes" "$Command1" >> logs/"$JobId"/config_machines-"$Time"
+./script/parallel_command.sh "$AllNodes" "$Command1" #>> logs/"$JobId"/config_machines-"$Time"
 
 #echo Performing: ./script/parallel_command.sh "$AllNodes" "$Command2"	
 #./script/parallel_command.sh "$AllNodes" "$Command2" >> logs/"$JobId"/config_machines-"$Time"
 
 echo Performing: ./script/parallel_command.sh "$AllNodes" "$Command3"	
-./script/parallel_command.sh "$AllNodes" "$Command3" >> logs/"$JobId"/config_machines-"$Time"
+./script/parallel_command.sh "$AllNodes" "$Command3" #>> logs/"$JobId"/config_machines-"$Time"
 
 #echo Performing: ./script/parallel_command.sh "$AllNodes" "$Command4"	
 #./script/parallel_command.sh "$AllNodes" "$Command4" >> logs/"$JobId"/config_machines-"$Time"

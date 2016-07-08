@@ -4,8 +4,8 @@
 #loop for number of reads
 Time=`date`
 
-./script/stopNodes.sh  >> logs/"$Time"
-./script/startNodes.sh  >> logs/"$Time"
+./script/stopNodes.sh  #>> logs/"$Time"
+./script/startNodes.sh  #>> logs/"$Time"
 ./script/connectNodes.sh
 
 sleep 30
