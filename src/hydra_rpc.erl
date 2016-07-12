@@ -79,6 +79,7 @@ new(Id) ->
         {error, Reason} ->
             ?FAIL_MSG("Failed to start net_kernel for ~p: ~p\n", [?MODULE, Reason])
     end,
+    lager:info("Node is ~w, cookie is ~w", [node(), Cookie]),
     true = erlang:set_cookie(node(), Cookie),
 
     %% Choose the node using our ID as a modulus
@@ -330,11 +331,11 @@ run(append, KeyGen, ValueGen,
     [BObj] = [{update, {IntKey, riak_dt_lwwreg, {{assign, {Id, MyOpSequencer}}, actor}}}],
     %[BObj] = get_random_param_new(IntKey,TypeDict, Type, ValueGen(), {LastKey,LastVal}, SetSize),
 
-    lager:info("Before RPC on client ~p on node ~p token ~p",[Id,MyNode,BObj]),
+    lager:info("Before RPC on client ~p on node ~p op ~p token ~p",[Id,MyNode,BObj,self()]),
     %TxId = {static, {OldCommitTime, [{static, true}]}},
-    case rpc:call(MyNode, antidote, clocksi_execute_tx, [OldCommitTime, [BObj], update_clock, true], 5000) of
+    case rpc:call(MyNode, antidote, clocksi_execute_tx, [OldCommitTime, [BObj], update_clock, true, self()], 5000) of
 	{ok, {_TxId, [], CT}} ->
-                lager:info("commit was successful on client ~p node ~p op ~p",[Id,MyNode,BObj]),
+                %lager:info("commit was successful on client ~p node ~p op ~p",[Id,MyNode,BObj]),
                 {ok, State#state{commit_time=CT,my_total_op=MyOpSequencer+1}};
 	{badrpc, nodedown} ->
 		lager:error("Nodedown id: ~p on node: ~p", [Id, MyNode]),
