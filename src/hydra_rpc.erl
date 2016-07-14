@@ -79,7 +79,7 @@ new(Id) ->
         {error, Reason} ->
             ?FAIL_MSG("Failed to start net_kernel for ~p: ~p\n", [?MODULE, Reason])
     end,
-    lager:info("Node is ~w, cookie is ~w", [node(), Cookie]),
+    %lager:info("Node is ~w, cookie is ~w", [node(), Cookie]),
     true = erlang:set_cookie(node(), Cookie),
 
     %% Choose the node using our ID as a modulus
@@ -104,10 +104,10 @@ try_until(IPs, Ports, Counter, Id) ->
     Node = list_to_atom("antidote@" ++ atom_to_list(IP)),
     case net_adm:ping(Node) of
 	pong ->
-            lager:info("Connected to ~p!! Id: ~p", [Node, Id]),
+            %lager:info("Connected to ~p!! Id: ~p", [Node, Id]),
 	    Node;
         pang ->
-            lager:info("failed to connect to ~p!! Id: ~p", [Node, Id]),
+            %lager:info("failed to connect to ~p!! Id: ~p", [Node, Id]),
             try_until(IPs, Ports, Counter+1, Id) 
     end.
     %lager:info("Trying to create new socket(to ip, port) on client (~p)  ~p,  ~p",[IP, Port, Id]),
@@ -124,41 +124,69 @@ try_until(IPs, Ports, Counter, Id) ->
 run(read, KeyGen, _ValueGen, State=#state{pb_pid = Pid, worker_id = Id,
                                           pb_port=_Port, target_node=_Node,
                                           type_dict=TypeDict, commit_time=OldCommitTime,
-                                          measure_staleness=MS}) ->
+                                          measure_staleness=MS,
+                                          my_node=MyNode,
+                                          my_total_op=MyOpSequencer}) ->
     KeyInt = KeyGen(),
     Key = list_to_binary(integer_to_list(KeyInt)),
     Type = get_key_type(KeyInt, TypeDict),
-    StartTime = now_microsec(), %% For staleness calc
-    Bound_object = {Key, Type, <<"bucket">>},
-    case antidotec_pb:start_transaction(Pid, term_to_binary(OldCommitTime), [{static, true}]) of
-	{ok, TxId} ->
-	    case antidotec_pb:read_objects(Pid, [Bound_object], TxId) of
-		{ok, [Val]} ->		    
-		    case antidotec_pb:commit_transaction(Pid, TxId) of
-			{ok, CT} ->
-                            report_staleness(MS, CT, StartTime),
-			    NewCT = binary_to_term(CT),
-			    {ok, State#state{commit_time=NewCT,last_read={Key,Val}}};
-			_ ->
-			    lager:info("Error read1 on client ~p",[Id]),
-			    {error, timeout, State}
-		    end;
-               {error,timeout} ->
-                        lager:info("Timeout on client ~p",[Id]),
-                        %antidotec_pb_socket:stop(Pid),
-                        {NewIP, NewPort, NewPid} = try_until(basho_bench_config:get(antidote_pb_ips),
-                                                              basho_bench_config:get(antidote_pb_ports), Id, Id),
-                        %{ok, NewPid} = antidotec_pb_socket:start_link(_Node, _Port),
-                        {error, timeout, State#state{pb_pid=NewPid, pb_port=NewPort, target_node=NewIP}    };
-		_Error ->
-         
-		    %lager:info("Error read2 on client ~p : ~p",[Id, Error]),
-		    {error, timeout, State}
-	    end;
-	_ ->
-	    lager:info("Error read3 on client ~p",[Id]),
-	    {error, timeout, State}
+    %StartTime = now_microsec(), %% For staleness calc
+    BObj = {Key, Type, <<"bucket">>},
+    
+    %IntKey = KeyGen(),
+
+    %Type = get_key_type(IntKey, TypeDict),
+     
+    case rpc:call(MyNode, antidote, read_objects, [OldCommitTime, 1, [BObj], true, self()], 5000) of
+        {ok, Result, CT} ->
+                %lager:info("commit was successful on client ~p node ~p op ~p",[Id,MyNode,BObj]),
+                {ok, State#state{commit_time=CT,my_total_op=MyOpSequencer+1}};
+        {badrpc, nodedown} ->
+                lager:error("Nodedown id: ~p on node: ~p", [Id, MyNode]),
+                MyNode1 = try_until(basho_bench_config:get(antidote_pb_ips),
+                                                          basho_bench_config:get(antidote_pb_ports), Id, Id),
+                {error, nodedown, State#state{my_node=MyNode1,my_total_op=MyOpSequencer+1}};
+        {badrpc, timeout} ->
+                lager:error("Timeout id: ~p on node: ~p op ~p", [Id, MyNode,BObj]),
+                MyNode1 = try_until(basho_bench_config:get(antidote_pb_ips),
+                                                          basho_bench_config:get(antidote_pb_ports), Id, Id),
+                {error, timeout, State#state{my_node=MyNode1,my_total_op=MyOpSequencer+1}};
+        Error ->
+                lager:error("Error commit  on client ~p : ~p",[Id, Error]),
+                {error, other, State#state{my_total_op=MyOpSequencer+1}}
     end;
+
+
+
+    %case antidotec_pb:start_transaction(Pid, term_to_binary(OldCommitTime), [{static, true}]) of
+    %	{ok, TxId} ->
+    %	    case antidotec_pb:read_objects(Pid, [Bound_object], TxId) of
+    %		{ok, [Val]} ->		    
+    %		    case antidotec_pb:commit_transaction(Pid, TxId) of
+    %			{ok, CT} ->
+    %                        report_staleness(MS, CT, StartTime),
+    %			    NewCT = binary_to_term(CT),
+%			    {ok, State#state{commit_time=NewCT,last_read={Key,Val}}};
+%			_ ->
+%			    lager:info("Error read1 on client ~p",[Id]),
+%			    {error, timeout, State}
+%		    end;
+%               {error,timeout} ->
+%                        lager:info("Timeout on client ~p",[Id]),
+%                        %antidotec_pb_socket:stop(Pid),
+%                        {NewIP, NewPort, NewPid} = try_until(basho_bench_config:get(antidote_pb_ips),
+%                                                              basho_bench_config:get(antidote_pb_ports), Id, Id),
+%                        %{ok, NewPid} = antidotec_pb_socket:start_link(_Node, _Port),
+%                        {error, timeout, State#state{pb_pid=NewPid, pb_port=NewPort, target_node=NewIP}    };
+%		_Error ->
+%         
+%		    %lager:info("Error read2 on client ~p : ~p",[Id, Error]),
+%		    {error, timeout, State}
+%	    end;
+%	_ ->
+%	    lager:info("Error read3 on client ~p",[Id]),
+%	    {error, timeout, State}
+%    end;
 
 %% @doc Read a key
 run(read_txn, _KeyGen, _ValueGen, State=#state{pb_pid = Pid, worker_id = Id, pb_port=_Port, target_node=_Node, num_reads=NumReads,
@@ -331,7 +359,7 @@ run(append, KeyGen, ValueGen,
     [BObj] = [{update, {IntKey, riak_dt_lwwreg, {{assign, {Id, MyOpSequencer}}, actor}}}],
     %[BObj] = get_random_param_new(IntKey,TypeDict, Type, ValueGen(), {LastKey,LastVal}, SetSize),
 
-    lager:info("Before RPC on client ~p on node ~p op ~p token ~p",[Id,MyNode,BObj,self()]),
+    %lager:info("Before RPC on client ~p on node ~p op ~p token ~p",[Id,MyNode,BObj,self()]),
     %TxId = {static, {OldCommitTime, [{static, true}]}},
     case rpc:call(MyNode, antidote, clocksi_execute_tx, [OldCommitTime, [BObj], update_clock, true, self()], 5000) of
 	{ok, {_TxId, [], CT}} ->
